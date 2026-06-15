@@ -9,13 +9,13 @@ An analysis of Namma Yatri's rider journey, focused on conversion funnel drop-of
 - NOT_REACHABLE is the #1 cancellation reason across all time slots
 
 ## Tools Used
-- Excel — data cleaning and calculated fields
-- Tableau Public — dashboard and visualization
+- Excel - data cleaning and calculated fields
+- Tableau Public - dashboard and visualization
 
 ## Dashboard
 [View live dashboard](https://public.tableau.com/views/NY_Anushka/Dashboard1)
 ![Dashboard Preview](screenshots/dashboard.png)
 
 ## Files
-- `data/` — source dataset
-- `report/` — full analysis report with recommendations
+- `data/` - source dataset
+- `report/` - full analysis report with recommendations
