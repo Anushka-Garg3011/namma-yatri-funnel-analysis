@@ -14,6 +14,7 @@ An analysis of Namma Yatri's rider journey, focused on conversion funnel drop-of
 
 ## Dashboard
 [View live dashboard](https://public.tableau.com/views/NY_Anushka/Dashboard1)
+![Dashboard Preview](screenshots/dashboard.png)
 
 ## Files
 - `data/` — source dataset
