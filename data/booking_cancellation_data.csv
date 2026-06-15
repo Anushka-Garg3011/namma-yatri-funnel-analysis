@@ -1,0 +1,1264 @@
+driver_id,booking_id,source,reason_code,additional_info
+NA,c04cc2dc-3b61-4ce8-a6d9-b9cfcf0aa1e9,ByUser,NA,NA
+75fb755c-7771-495c-a297-5c323682ea7c,47d12a1d-f586-44a0-ba82-e04092807a91,ByDriver,NOT_REACHABLE,Customer not reachable.
+aeb8d0a5-7c63-4734-bade-d0cfdde5962b,6d2e702e-78f0-4222-bfb4-b0a549be5212,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+41afdfc1-7446-4b8b-8b47-7b49fb8b3eb8,9b63bffc-3a7a-4fca-84f0-7566ef04bd79,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+7bafd12a-19e5-461a-839e-e92ec36baf09,66bbf9c4-47a6-4cc8-a0a5-2e4e461df410,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+2beb36ce-c288-4723-83b8-a4f112095c2f,7ca9c9a8-38e0-4fac-8a44-9e5cf4de8712,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+NA,91bc6026-5ee4-4c92-a8ae-56f929a77e51,ByUser,NA,NA
+bd0f9e7a-3f5a-430e-aa64-70a63889d467,e4636e60-0101-4295-84d9-09abca6498ae,ByDriver,NOT_REACHABLE,Customer not reachable.
+b0123201-a33f-46e8-ae28-1d5b568f6453,c8f0828a-57d4-4335-86c2-0ebb9400d3e1,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+56c8ba87-f247-4c3f-9fc3-023acd41e62c,5fd8e110-2f58-4145-a971-f2a79365cab1,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+fcb647c6-8194-442e-b2af-b955021ede56,65ae8ece-3c0a-4518-b048-e04c32d46621,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+NA,4c9d5b1a-d745-4946-9b32-6f2860c5137a,ByUser,NA,NA
+746d66f1-ea86-41a5-9453-eff61eb39005,8c0f8142-b652-4379-b2b9-5324aa204b1e,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+NA,a62cd1e2-5d72-41a2-9d63-2df9f75562cc,ByUser,NA,NA
+9aab5644-3982-408b-96d3-351622a7ea13,3cdebcdc-58f4-46cc-a1aa-12ed22c63c8f,ByDriver,TOO_MUCH_PASSANGERS,Passenger limit exceeded.
+40eb1241-1f16-4b51-8d07-d23d55989db8,f8a3e394-b0e3-4c10-846f-119d254bc7a8,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+41afdfc1-7446-4b8b-8b47-7b49fb8b3eb8,bd051944-8f73-4e19-bc9c-bea7044659b6,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+NA,3027cef1-11c3-45c4-95f9-3d4102329b50,ByUser,NA,NA
+NA,9a4f0268-7188-4f86-840d-b3da46b1034a,ByUser,NA,NA
+NA,576ea3ff-3b63-4c2e-bee0-33bb8b1e0198,ByUser,NA,NA
+8a88c4fa-a3c4-42d4-be06-9417334e81b3,96f7a409-3900-4ccf-917a-bfd56f218254,ByDriver,NOT_REACHABLE,Customer not reachable.
+ca5008ed-cf9b-4392-b5a6-c30b85e27d94,84b6584a-64e4-423f-9fbe-64beaadf81dc,ByDriver,NOT_REACHABLE,Customer not reachable.
+NA,031cb4e2-d3e9-4044-8902-d5110f2ff864,ByUser,NA,NA
+478cf494-efbd-48ed-8b0d-20edec859830,b9b3baff-b5d9-4d47-a053-3fbe84ade488,ByDriver,NOT_REACHABLE,Customer not reachable.
+33703383-5a34-4bf4-8b93-aef59606cc6f,78a3661f-9104-4a85-84fc-0fd6c314e170,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+f80a659c-c87a-454f-af4f-45531302a328,5f7e95cb-4f40-475d-b440-4e92d67c0b9b,ByDriver,COVID_RISK,COVID Risk. Customer not wearing mask/unwell.
+7f12aeea-e86c-4461-975a-e2b19960c50d,2babe013-8dee-4107-97e2-09e2f5675414,ByDriver,NOT_REACHABLE,Customer not reachable.
+3445a44e-3659-404b-a4ef-7f829a12a6b7,a28c515d-b015-460c-8ff4-68c023e61147,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+NA,9132500a-deb5-4c4e-a4f3-2cdd651ba334,ByUser,NA,NA
+NA,9fab721d-b06a-4541-8f3a-c1601a6d7f50,ByUser,NA,NA
+NA,62516868-54be-4a4b-849c-7bc3d2cd1442,ByUser,NA,NA
+f2e9398d-1896-4eda-a5b9-3ee816ad6e5c,9c4c389c-bf38-4c3b-849f-21b7ed1a565c,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+6f987320-3ee6-495f-b35f-223f77dbf90c,a13e860b-9c5b-41ee-881d-74af8d417880,ByDriver,NOT_REACHABLE,Customer not reachable.
+efa6c64c-0187-47b9-8bdc-5efa02a72e40,9116f18f-38eb-4bd1-9ed4-658c1290afcf,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+NA,31e15a36-6e13-4709-b50e-f2313a6bcf03,ByUser,NA,NA
+1d1a7797-0565-460a-9dbb-fbd9a66500b2,1abdb4b7-7c6a-4b74-b71c-5ac8d507b01e,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+NA,08664dd3-20fe-4f90-bb7b-6697f06285de,ByUser,NA,NA
+3e6826a3-f5ed-4c57-a7ba-72e735a23467,ee2b133b-aa3b-4057-b093-e48a0421ab33,ByDriver,NOT_REACHABLE,Customer not reachable.
+451abaa2-6219-40e7-8f41-ce5ef95a7e6a,4ae3c306-29bc-410d-9388-82d7abe774d6,ByDriver,NOT_REACHABLE,Customer not reachable.
+1d1a7797-0565-460a-9dbb-fbd9a66500b2,c7db2be4-05ef-44ab-acd7-b3f63a3de930,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+1d1a7797-0565-460a-9dbb-fbd9a66500b2,85a08bdc-3b29-4019-a478-546cd8dd4e52,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+1d1a7797-0565-460a-9dbb-fbd9a66500b2,25ac61e7-099e-49e0-baed-0967492c13b5,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+NA,4f0c0436-206d-4578-a51f-43a609c69f07,ByUser,NA,NA
+NA,95e9a6cd-dd97-4b8f-adc8-701d94a755ab,ByUser,NA,NA
+NA,e0c37b46-6b8a-4eff-9a89-5ad47da73af2,ByUser,NA,NA
+1d1a7797-0565-460a-9dbb-fbd9a66500b2,57fd3840-7ae4-49d0-a7c8-0f4944cdd7ca,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+cf2747e8-5cd9-4143-8a74-48faeffaf1ef,0a0dfe09-7bbc-4010-bc0f-141e4d2545e2,ByDriver,NOT_REACHABLE,Customer not reachable.
+518c47b5-5be4-4309-a0c8-aec836d745b2,288fad09-581a-4b0b-9d94-1db3deafcdc6,ByDriver,NOT_REACHABLE,Customer not reachable.
+8a88c4fa-a3c4-42d4-be06-9417334e81b3,96f7a409-3900-4ccf-917a-bfd56f218254,ByDriver,NOT_REACHABLE,Customer not reachable.
+384f4a41-b51d-478f-bda5-9862a3ea9b7d,7e892b69-21a2-43f1-b254-c6305e7fdfe0,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+6f987320-3ee6-495f-b35f-223f77dbf90c,a13e860b-9c5b-41ee-881d-74af8d417880,ByDriver,NOT_REACHABLE,Customer not reachable.
+bff0cd8d-da29-49f9-84c6-ca8cf6b3fc75,0a1479ac-1605-4bf7-98ca-6db9e3b123b9,ByDriver,NOT_REACHABLE,Customer not reachable.
+f2ae1ea8-ad8d-4e18-97c3-d2f7c8c4ee58,d2274cb4-0627-45e0-ab0a-f988bc86795d,ByDriver,NOT_REACHABLE,Customer not reachable.
+2ee22983-6dcb-45aa-8a2a-6c164d580666,9c452900-3d7f-41ee-b7b7-b66e20ba8132,ByDriver,EXCESS_LUGGAGE,Excess luggage.
+NA,f2e7916b-8286-4d25-8a91-5472050a3798,ByUser,NA,NA
+08390c07-beb2-437b-a797-883d85537028,ddaeed43-4cd9-4b30-997c-ecc0cca9afe4,ByDriver,NOT_REACHABLE,Customer not reachable.
+cf016556-c209-482d-a11b-34be9159757e,9b5e997c-df0f-44a1-a673-2671e89cc68f,ByDriver,NOT_REACHABLE,Customer not reachable.
+f49dcdfc-1800-4e16-8b94-685f15d53642,4bc48694-35bf-4f95-823c-f0823b7f2081,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+NA,938d44d5-91a8-4a00-845f-64805f76529a,ByUser,NA,NA
+NA,c257afd4-1e7d-438c-9ee0-034c680d9bb4,ByUser,NA,NA
+af3e8709-ebff-43a9-bc86-d6d33786ee95,d4d2a0af-1a39-42a4-aad2-78db5d6db2a1,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+77b9082b-7680-40ee-a1dd-5a3cf7092999,8c9a9abc-16e7-4c26-b716-cd7195d672b2,ByDriver,COVID_RISK,COVID Risk. Customer not wearing mask/unwell.
+3f118cf5-2f77-4ab6-864d-92c3c4f21132,f88bc6a7-bdde-4e30-86d8-edd22e716382,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+0250a49d-a435-4912-ac7e-e0639ff9a6a1,25f10283-e50a-433c-a6ba-0d5fc21111e1,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+e2c67b70-5ebd-49df-a90c-57d78da8d429,e6ead5ab-7aac-4fbe-99c7-b4f61750b150,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+1092e23e-5e81-4a04-88fa-8f0b8d9c9d72,884ea276-023f-4f9b-8b4c-09a1f65c0ce5,ByDriver,TOO_MUCH_PASSANGERS,Passenger limit exceeded.
+43b49f35-9f4b-46aa-8285-52ac0642d0eb,4d536d72-9bef-46a8-a444-1011cda54c0f,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+8434ced3-728b-4ecf-9dd0-e1eef0af9dcb,a72f0c42-a97c-44c0-bd09-11ac0e7510bc,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+e4e5a728-3f8f-459e-b297-dc022d466460,a1803989-0eb4-4c1c-9196-556c6aff2061,ByDriver,TOO_MUCH_PASSANGERS,Passenger limit exceeded.
+NA,11949f13-7fae-4d02-9ced-b9fde4e82fef,ByUser,NA,NA
+736146b4-97b0-4b7e-8341-5d8aab659007,62a29305-2cd1-4515-94ba-14be5a36d125,ByDriver,NOT_REACHABLE,Customer not reachable.
+NA,ac3b575b-a8af-47c7-af40-3b1cdb038409,ByUser,NA,NA
+71e3e74c-a6ca-4b48-a6b5-6517c489101e,4ac47972-4cd1-41bd-8864-0a2a9f9633f8,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+e6c9d492-c169-4457-bbdd-a53c6ae68532,e3da67ec-e6ad-41e3-8932-11fd99ba0c10,ByDriver,TOO_MUCH_PASSANGERS,Passenger limit exceeded.
+9fcdc4c6-ff3f-409b-a217-b2281208ae99,2d085b5c-0857-4d7e-a312-c8eb047c6d27,ByDriver,EXCESS_LUGGAGE,Excess luggage.
+c9d76c3e-f33f-40fa-9e37-7a9f6273a5b3,743129ad-b723-4462-88ee-0b4e7579e221,ByDriver,OTHER,cancel
+09bc263b-f348-4fe4-bcd2-a37b9ddda839,2751475e-1660-486b-b2da-7821ee72515c,ByDriver,NOT_REACHABLE,Customer not reachable.
+80d3a8e4-6381-4b97-bb60-1b203568485b,588f87be-2598-4d7b-ab58-81a68204a2da,ByDriver,NOT_REACHABLE,Customer not reachable.
+NA,2a45acb7-fcef-4858-9bae-256052ddbb65,ByUser,NA,NA
+1a4209b9-c0b0-4d87-a8a4-a44ad6702512,f249132f-ac5a-4c1d-a404-df356211b3ba,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+NA,7076f7db-3b04-4f93-9ffc-0efdff9672d4,ByUser,NA,NA
+eaefe1a7-c0bb-4273-b9ef-0a76ae0e2b58,bff7d90e-aea2-4a0a-aba4-8d2a84c0dbdb,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+NA,b930998c-024d-4221-88ac-74d409538ee5,ByUser,NA,NA
+6d8e733c-511e-4000-b069-82d4f4423eed,9de3c2f1-6af1-4990-8249-dfce7cf8638e,ByDriver,EXCESS_LUGGAGE,Excess luggage.
+c121cd3d-16e7-40a8-86a6-5d780733f950,16e45d36-1caf-45aa-a7a0-bd7f4d4fbfc5,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+b1446311-5096-48a5-be51-47cc4f4cd544,158d66e9-ce87-4f4b-a054-d4468c7ce2fe,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+58868a23-a4c7-450f-8634-af572c94014e,f42c86bd-a197-4f46-86a8-a424dd76883f,ByDriver,NOT_REACHABLE,Customer not reachable.
+NA,4be4de66-9b7c-423a-aa62-35f2014f77d3,ByUser,NA,NA
+43fcf28d-00aa-41af-87f0-a6f0f6f246c6,a67767aa-d5d5-4423-bc21-4fd22aae2882,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+9bd47332-143b-4f90-8a57-bdcbd041a49c,16074ee6-67b5-4f33-b988-cdde67516e37,ByDriver,EXCESS_LUGGAGE,Excess luggage.
+82bd6419-d04d-4f51-b99a-cbb825e6d3aa,689da634-9f64-4013-80d0-4c91be7b0ca5,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+NA,3da6c8e5-c6b1-460e-a8f4-73d3bdb4bb31,ByUser,NA,NA
+e6c9d492-c169-4457-bbdd-a53c6ae68532,fd4a4dad-5e8f-4ded-9496-2af638a76577,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+NA,911e25a5-b749-4111-9b4a-80ed96bf1644,ByUser,NA,NA
+NA,a87acaac-9f73-43b5-9b53-f23845d743ce,ByUser,NA,NA
+NA,47bc0ee6-7757-4b73-b1a9-22da25ee55c4,ByUser,NA,NA
+NA,ea7801d6-209f-4582-bdad-b0adc01ead8a,ByUser,NA,NA
+c3e0c150-d89b-4a47-83a0-12c840d61c4e,1ff86cc7-7422-4a9d-9198-141bd4dcc024,ByDriver,NOT_REACHABLE,Customer not reachable.
+d2296147-3cd8-4391-9de4-ea28a96f9310,80d09ccc-ef23-42f3-bfa3-d691bf6415bd,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+NA,23eac5d8-be0a-4fd1-b0cb-2575e705c8ca,ByUser,NA,NA
+NA,f055b4a9-eb02-48cb-9794-779c0e942d4c,ByUser,NA,NA
+78a89ca3-e395-4147-bc5f-ba831a904dcb,8b669c7b-8174-4f51-a792-3caa052b4c11,ByDriver,NOT_REACHABLE,Customer not reachable.
+24f1c7cf-a89a-4a72-9e9d-e123f9c2d182,865ad07d-a98f-4a10-9cf4-85d32cd5b30c,ByDriver,NOT_REACHABLE,Customer not reachable.
+NA,33ce9338-c59f-4e9c-b3b5-40bb67b8cdd0,ByUser,NA,NA
+NA,f2a3fdf0-2e5e-434f-9a13-b0b6e914168e,ByUser,NA,NA
+41e9a02d-4aca-4824-9956-24cc856c4e2d,6aff3f19-74ec-4a0d-9138-524c6dc8603c,ByDriver,NOT_REACHABLE,Customer not reachable.
+3be12094-0376-42df-91ef-23520e779f40,8395a2a8-8431-46b6-b032-7da15c2eb251,ByDriver,NOT_REACHABLE,Customer not reachable.
+6a3439af-c61b-4f97-ab8c-b8670e138593,f9457456-2f16-4984-9408-d9c0d26a2c60,ByDriver,NOT_REACHABLE,Customer not reachable.
+NA,270a10dc-fd33-46a4-b518-7b734aaa12d4,ByUser,NA,NA
+b66e3adf-82ee-4c40-a187-e7b1f0c76b0b,fcb59a06-b051-4d83-8814-2f232d9ba12a,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+8160bcc2-dba0-418d-b603-d98c8a493b29,5ebfcc5a-d66e-4152-9dde-af19d0b93767,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+NA,64711a94-96bb-4d11-952e-173b98b6fd68,ByUser,NA,NA
+1eb5ee29-63f6-406f-8e44-9870e7a8057b,f77e65e2-81d9-457d-a0e7-2fc39cb8699c,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+19dff966-9b33-4637-83ac-0ed3c68e0333,22499547-8a0a-4cd8-9e31-0794a107e342,ByDriver,NOT_REACHABLE,Customer not reachable.
+4e06f1b0-4cd9-4c0f-abfc-f9b521d263ae,d26ec56f-5277-46a8-b98a-6626af708208,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+8b29f0f5-44a0-4354-b284-26a7e7dac25a,096b519a-9a02-43fb-878d-0f9190f1898e,ByDriver,NOT_REACHABLE,Customer not reachable.
+NA,1a535618-3462-44b4-a402-c08547e91086,ByUser,NA,NA
+f493881a-da67-472c-a906-2816b5eda890,49e7453b-b7a2-4a2b-8c19-043c8ebca87a,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+6d8e733c-511e-4000-b069-82d4f4423eed,6c1f74b7-517f-427a-a7ac-bd5d84d4b695,ByDriver,COVID_RISK,COVID Risk. Customer not wearing mask/unwell.
+5ab7d47a-b238-4826-8adb-c51e2cf8678c,3fd66d4f-7c4f-48af-95a4-6784c4d5605c,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+bc578a0a-70c8-45e5-8160-bbabc3ef8995,4b1e267d-b75d-425c-bc85-7e272d80b41a,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+NA,831febee-d818-4bf7-97e2-95e0df38b530,ByUser,NA,NA
+0020b0c9-8903-43a9-947e-2ff48afeba35,eab58019-81ce-4b6c-aaaa-075f792963ca,ByDriver,NOT_REACHABLE,Customer not reachable.
+NA,0f53c0e8-df8d-4301-be95-5b37a6034916,ByUser,NA,NA
+NA,5da03de3-1398-4fae-9bd9-c24e4596a100,ByUser,NA,NA
+NA,4007b644-e4a6-4e12-82d2-73afccc38954,ByUser,NA,NA
+NA,080f45c7-11d4-4f57-b0d1-1c552a2d2a0a,ByUser,NA,NA
+NA,70fdb6e6-6baa-4544-b0f0-426905a64a9f,ByUser,NA,NA
+NA,bf89e194-5317-45fa-ac83-efcd6146de48,ByUser,NA,NA
+NA,02455197-95df-4d01-a7cf-1c1f3a562867,ByUser,NA,NA
+NA,5c376a2b-e88f-4c8f-8a3b-086aca1d3528,ByUser,NA,NA
+e59548a4-ba41-4e92-90ca-cceba6be69ef,161c03f8-97c0-4f7e-b7bc-0fd6d44c9065,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+80d3a8e4-6381-4b97-bb60-1b203568485b,588f87be-2598-4d7b-ab58-81a68204a2da,ByDriver,NOT_REACHABLE,Customer not reachable.
+80d3a8e4-6381-4b97-bb60-1b203568485b,588f87be-2598-4d7b-ab58-81a68204a2da,ByDriver,TOO_MUCH_PASSANGERS,Passenger limit exceeded.
+9e6532cc-ed64-45c2-9af1-e052821bc54e,0bd09ab3-3dfc-4165-a688-df4af7071996,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+NA,d053c686-3ed9-4c17-95c7-25810718191b,ByUser,NA,NA
+NA,a48046bc-2998-403d-b3a2-aef1055b9552,ByUser,NA,NA
+e2732825-6229-41cf-b3f2-8df0d6d0ccb0,95803eb5-24d5-4883-9065-54ec843d7efc,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+NA,380fdbf8-e05e-4017-9aad-0ce7a6570b34,ByUser,NA,NA
+NA,190dc3c7-e665-4d25-a134-2d2debf7c672,ByUser,NA,NA
+fdb37d0f-a082-4cda-9548-d53ba5d09f5d,757eb76f-27c8-48d6-9231-0c0ab848360a,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+NA,d9520296-d4f8-4f0e-a556-8090ee928d1c,ByUser,NA,NA
+NA,7a95a261-c9a4-47ff-bff6-9eeab3ceaf1f,ByUser,NA,NA
+3a1e00bb-ff7a-4346-967d-897c3a3e740e,fd067712-bba5-4cb2-b699-bd667b4f5603,ByDriver,NOT_REACHABLE,Customer not reachable.
+1dede3ac-c587-4b5b-9ee9-e820a741a234,548fc83f-cdfe-4f04-8633-16d40a7fd1ed,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+51db23ff-77b3-4e65-afe7-be23ff39c003,af73f456-be35-4df0-9f1e-e0156cc8983d,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+NA,f2ed5731-b7a8-4016-81d6-afc4e7d0cfef,ByUser,NA,NA
+a8d8e1c0-e6c3-407b-8eaf-e3f92b825f61,5a2d95c2-aee4-4216-9e42-ed74dd8cabf1,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+99e23286-541e-4ccb-9ecd-8bfde89cc5b4,fc675b84-f7f2-4fa9-b04f-059132a4f2c2,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+06bbfbf0-0c53-47be-870a-719b0be78621,c013ff63-9a19-4433-afd6-bd485c2f28bc,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+018b647f-084a-4188-be50-f53bf7b29bfa,074ca9f6-6c47-4895-890e-1b82dba67b8b,ByDriver,NOT_REACHABLE,Customer not reachable.
+d06683a9-1338-4552-a05c-32a2a0efd195,f8dd11a6-9218-4e9e-b52d-ffbd9685219f,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+NA,795b6a48-e996-44db-8cec-d458ec8407e0,ByUser,NA,NA
+NA,b84b705c-e3ae-4d4f-ba3e-f67f38759a8e,ByUser,NA,NA
+NA,2afa6fdf-58b2-4df3-95b0-68822e32db2e,ByUser,NA,NA
+NA,c2ea4727-7c71-4582-9650-277babb3678c,ByUser,NA,NA
+NA,198a6e8c-2d6d-4b15-9177-2d0adfa02dd6,ByUser,NA,NA
+a51d424e-b5bb-4766-9991-f19f82c6fde4,f6e9e308-8a66-4ff1-a260-f5d52514ccba,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+491536ea-1fac-4f84-b06f-da03e050bca3,4583d873-a47e-4d7f-a63b-6fb590d82436,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+3c5936d9-db09-470a-99a2-ffd5e1b7a786,40817626-5d06-4c66-a6c3-2b7904898b1d,ByDriver,TOO_MUCH_PASSANGERS,Passenger limit exceeded.
+NA,4017b73e-0ea5-45b9-9dd9-a068622df17e,ByUser,NA,NA
+992fed41-a20d-42f8-91eb-80c367eaa55c,2275fc5e-71b2-4b1b-b08b-a98547ccff08,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+NA,f354da2f-879a-42f6-ab2d-30d36d5af8f5,ByUser,NA,NA
+NA,3da96f19-e17f-44ee-866f-d7b304266e09,ByUser,NA,NA
+NA,4013fd47-d19a-4949-ba22-3733629b2da2,ByUser,NA,NA
+36137acb-9217-4cd2-b91c-69441c0aed99,895f04de-4f02-47c0-bc4d-7d92e73ee0a5,ByDriver,NOT_REACHABLE,Customer not reachable.
+NA,a865e65b-936f-4c07-b44c-9a2c7dc15500,ByUser,NA,NA
+643a6711-62aa-4847-817c-676b569493b9,ba851c06-e5c4-4d25-91cc-32936cbdb7af,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+c7817d88-ef40-4e61-b7fa-429adc9f736a,662edf2c-30fd-4a99-ab9f-f33abda10aef,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+2bb05dec-4121-41cf-a727-29eb2225da45,68a1fdaf-cb35-43bc-94d8-1abd56ddf9c8,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+aebe820e-e181-4c57-ad8b-670fe36d656c,17eec90b-7767-4d83-8b45-2372eb7593f5,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+23b9faad-0f90-4464-a882-edb54ad07473,76c661a8-0b06-4a09-b23f-0d799cd60139,ByDriver,NOT_REACHABLE,Customer not reachable.
+NA,1b1d5a42-382d-44c9-ab53-03bc3ee21ce7,ByUser,NA,NA
+15697aab-9e0a-4b5e-be39-8367830208dd,91335ed2-5e18-4db1-88cf-94ef0bd9b497,ByDriver,COVID_RISK,COVID Risk. Customer not wearing mask/unwell.
+c57516d7-39ad-4d5a-beb9-65d2f38dc446,339962b3-0940-4ed8-b0a2-cf8bf1e1d65a,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+606a44a6-028c-4035-bb83-8ddd28db7511,93cbd537-bc8f-4801-a87e-ced36b4b1f74,ByDriver,NOT_REACHABLE,Customer not reachable.
+NA,c4164e96-609f-4a94-92f1-ae216afeaa12,ByUser,NA,NA
+NA,ca1156dd-fac0-4cda-be93-0b6944b15ceb,ByUser,NA,NA
+74b92e3d-609b-4024-bf7f-f024fd8b57a4,60e41aab-3504-413b-b29c-6c42020a6dca,ByDriver,NOT_REACHABLE,Customer not reachable.
+fd86394f-55a1-427e-9c94-3ce1cb014cf6,2cf14258-5e25-40f6-9a05-5ac45c39da2e,ByDriver,NOT_REACHABLE,Customer not reachable.
+NA,8ef0a0eb-e592-4482-bd3a-245b833745f2,ByUser,NA,NA
+NA,86cad09b-b94c-4a4b-8b10-34d3307b93bb,ByUser,NA,NA
+NA,841be801-e0ac-49ea-a071-90c3aae0d83f,ByUser,NA,NA
+NA,122a10f6-ed1c-4b29-97aa-5274095b56eb,ByUser,NA,NA
+84a555f1-8a33-4a0b-a80f-42e13246fa2c,6a007917-1c81-4fbd-a94f-ec4cac585fc1,ByDriver,NOT_REACHABLE,Customer not reachable.
+d5d160f5-3f82-42e0-812b-5213376aadea,6aefdc8e-5005-4044-a23e-032d61866896,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+NA,ca46c54f-f2cd-49b0-a288-e1be9e04cbc9,ByUser,NA,NA
+NA,568b0e16-f2a0-4071-8733-5d33c417d0e9,ByUser,NA,NA
+NA,4eac2fb2-4a48-4070-945a-45445a4f6430,ByUser,NA,NA
+fdddee6f-57ce-4b13-a3f1-0c2fbcf21ad7,648923a8-eb19-4482-991b-0c87a3bf6c3a,ByDriver,COVID_RISK,COVID Risk. Customer not wearing mask/unwell.
+cff8b372-77b2-4bfa-b741-94b0c3f57e3f,b52d72d0-d102-4da5-b293-94ba73542403,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+23b7cad5-b7a0-4640-bc12-21b6a781f30b,afdd660e-4143-4f50-82d1-836b94cb7c0c,ByDriver,NOT_REACHABLE,Customer not reachable.
+4a78baa5-dd17-4427-9a74-4e1043a2300e,2c39b85c-a05c-48bf-98d8-6ecf2142d4e6,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+NA,798a1d9f-06cc-4dfb-aa53-41c36f6954da,ByUser,NA,NA
+NA,e20d1531-005e-4207-b631-514a0e9ed604,ByUser,NA,NA
+7d7d3094-b5cf-4df5-837d-270a98f9cf16,cb966ad0-d04b-4db4-bdc7-e985a676b0da,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+040a61f4-a7da-41e6-91cb-2287c549856b,b245f480-2cba-4318-a53e-a0db83f99c2b,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+1da11b26-6db3-4d2f-a23e-376818bb1482,76d3f621-9cac-489f-9227-d29171bb6d30,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+a466bb66-2b78-4471-bea3-e3367338ce6f,4a799f39-2e48-47e0-892e-056b3d89f6a6,ByDriver,NOT_REACHABLE,Customer not reachable.
+b4be9e8f-6c30-4eb8-82fa-dfc8233ba116,e4f04a87-4c76-4b65-bc39-20ad1c054d5f,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+NA,5d615885-1a8f-43e2-a1df-3818864172c2,ByUser,NA,NA
+74032bff-8209-4136-9646-04ebeb876d76,a16f1c59-0bf2-4490-81c0-96addbecfec2,ByDriver,NOT_REACHABLE,Customer not reachable.
+4bc2242a-2371-4b53-8bec-2f5f12533849,a6fafe79-18a0-4ec9-9472-f5f022e30811,ByDriver,NOT_REACHABLE,Customer not reachable.
+8400f0f9-98ca-465a-8588-1314b3d08b39,876405d3-5424-445b-8310-7af469b4c857,ByDriver,NOT_REACHABLE,Customer not reachable.
+NA,4a75fed9-a2e7-45cb-97c6-d4896f5a0fa0,ByUser,NA,NA
+abeab944-5480-42e8-93f3-8c786a9e69c4,164fa046-35b7-4e90-9684-f09dbdb19a7f,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+bf7989c8-4509-49dc-8dfa-f1b7dc84dadd,b2d57003-f2c3-40b2-ba82-ae591ca8f081,ByDriver,TOO_MUCH_PASSANGERS,Passenger limit exceeded.
+NA,b858a938-46e7-4564-8f07-afc716ddeb6a,ByUser,NA,NA
+b7c56347-b5c9-46b2-8354-4f08357ea9e8,d02ba79a-f282-4b73-9f39-adacee65756b,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+NA,22fc247e-6061-4f17-831d-b394b46ab318,ByUser,NA,NA
+ee454a89-2ff7-4253-b520-66ea5c702d0d,1ddd79e3-7059-4734-85af-029f289da2b6,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+NA,a5cf6786-707f-460f-ae6e-b3458c00bfd6,ByUser,NA,NA
+NA,61278440-1831-4759-ace5-62e77eb401c2,ByUser,NA,NA
+aa756ef6-ba06-4407-9ab4-3d67110fd80a,46cb4029-781e-458a-be5e-3dbc4aa2c2a7,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+6962890c-e664-4cd0-a94b-5709586b2ec1,96361bb9-5d81-410c-8dc1-466975965ea2,ByDriver,NOT_REACHABLE,Customer not reachable.
+NA,a76548f3-ecce-4ba2-8991-3ceee251c03a,ByUser,NA,NA
+cabeacfb-e571-4a87-8d22-044e2fa3ea8d,bf777514-b372-4ddb-92cc-896079e1390a,ByDriver,NOT_REACHABLE,Customer not reachable.
+e0ff4762-7af6-4438-a298-115bbc57f3ea,584cca6b-b1a1-4e85-af12-42d4f99f1683,ByDriver,EXCESS_LUGGAGE,Excess luggage.
+7e65e826-f2c1-45db-8b4a-c2e9e2b79630,f1ac55a3-b09f-492c-b24f-9b3e1de8cb8f,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+8de425f1-6299-44fa-a16a-5e8e6d7581cb,6c08fdb4-9adc-4794-a1ec-a8122802a20c,ByDriver,NOT_REACHABLE,Customer not reachable.
+NA,05d5ec7a-3ad8-4424-8abb-b7130541d4f2,ByUser,NA,NA
+NA,e9e54e1d-1916-4740-9260-23180fc6caa6,ByUser,NA,NA
+86cc3fd7-bf4b-4395-a5be-4aa23c7112ff,9452f9a4-b3b3-4f66-ac97-30e0f37c4adb,ByDriver,NOT_REACHABLE,Customer not reachable.
+7fc5b8dc-79e9-4c46-aaed-6422b75eae30,a93471ee-552c-4199-849a-2f10e92dedd9,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+e1337c1e-7fef-4be9-973d-5a31999ea5f3,e2c0c8ba-09f2-43a7-a7fe-d98260845c5e,ByDriver,OTHER,NA
+87d35b0c-b21a-46d7-8a81-3e5166210f8f,7a90f35d-8d46-494f-9acf-4cb969824649,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+NA,bd6d181b-3d87-4456-8dc8-827b4d4cca45,ByUser,NA,NA
+cc24a17f-0fa7-49a7-b121-4aa36396297e,fc4bcee3-6acc-4276-87f5-9fea2d9281d3,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+NA,fe306336-b91f-4301-884f-38c5d9bfbc29,ByUser,NA,NA
+224155ff-e292-436c-95d8-bc09e21f3330,a463b356-a9b8-4f31-9c33-4c96f244e4fd,ByDriver,OTHER,NA
+e8f052c0-ad65-4d41-89c2-fe769cc66b82,71369bac-70b8-4caf-bfb3-cd018b88da73,ByDriver,NOT_REACHABLE,Customer not reachable.
+3d9aaa7c-f6e2-4626-a0e0-7b971957068a,d2dce4a6-e093-4645-96fd-24dfe4aa7e81,ByDriver,NOT_REACHABLE,Customer not reachable.
+afae9192-57fa-4349-8994-1893a991565f,5fec3f4e-5ecd-4ba1-a9c5-a4c6462bf436,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+c6fadee9-0461-4258-b830-6e52d2eeb6a9,1279f089-921e-442a-8e1a-ad1fdd951578,ByDriver,NOT_REACHABLE,Customer not reachable.
+NA,7012e60a-a6e1-466e-a8a6-ec55bd8bdb66,ByUser,NA,NA
+c4f8b9c5-5836-4fc8-ae94-0b6a5b891279,b0d197d0-784f-45e5-8387-618b4e8214eb,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+NA,550d0514-5cb4-41f6-b4cf-efa52665e854,ByUser,NA,NA
+NA,d40e34fb-e378-4026-962b-125fc778dafc,ByUser,NA,NA
+b69ffc1b-fc36-4522-95e8-db6cd39118bd,87a18fca-7fca-4ff3-be2d-7ab850e5890d,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+a2e9a39e-604d-4914-8cd3-d61a1f5261f2,7a0b62d0-1940-4c8e-994f-998df7e38781,ByDriver,EXCESS_LUGGAGE,Excess luggage.
+22991900-0666-4a40-91a3-b31027f317aa,6cb3e91c-1a0e-4495-bfad-2c4db1fce853,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+NA,daafae66-be4e-4457-a013-9948ca449099,ByUser,NA,NA
+61f0b9dc-110a-4a65-b7bd-6496aaa71dd3,ffd8e594-e600-432f-b9f1-3307beeae64b,ByDriver,OTHER,NA
+NA,a573c86c-411b-4f2a-b9c6-23fc34c1022a,ByUser,NA,NA
+22847654-271a-4a5a-b871-6b17552bf5b6,1a3164b2-497e-46d7-a4b6-3b0c05054473,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+69a758f2-4ac8-4c75-9342-91070cf133dc,2d1d6e1f-2232-400a-a6f4-32863317eca3,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+NA,6c6a79db-1dac-448a-8b37-c191728dbcca,ByUser,NA,NA
+NA,1ee3d2aa-c782-46ca-8d8d-51452238c8b4,ByUser,NA,NA
+NA,35ee1c02-27c2-4880-957e-28b5dd876046,ByUser,NA,NA
+NA,685b49ff-7581-4d07-8727-c1d4e7fc6833,ByUser,NA,NA
+58595015-2a63-4145-a5b5-f45331931d34,f6b7d7e8-d43e-42a7-8023-0f785855ddc0,ByDriver,NOT_REACHABLE,Customer not reachable.
+NA,7dd69bb4-8d96-46ad-908c-4d585a4c4142,ByUser,NA,NA
+NA,eacf4289-4d36-47a6-97d6-8aed035fd592,ByUser,NA,NA
+a8b787cf-3983-4bfa-b24f-48aa717ad8fb,b6075096-88b8-41c0-84b8-b5b882c7817b,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+NA,68654a91-c17d-465d-98a1-61aacd5e391c,ByUser,NA,NA
+51db23ff-77b3-4e65-afe7-be23ff39c003,9172b481-8449-4804-97e7-555bc743e0cd,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+b50fa813-02a4-4d64-a77a-33e6077b3c95,128db081-ceb2-4b6c-9109-1d75b4a97305,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+NA,027e7c46-1119-4376-9284-472f969e488a,ByUser,NA,NA
+00319c2b-7668-4592-a14a-f32ce0bbd603,db6addda-24c7-4033-90ff-9da477c6152a,ByDriver,NOT_REACHABLE,Customer not reachable.
+0fc52a84-9798-4ab6-9d34-955870a10f6e,febbe61a-704a-44d5-a9c7-6664dbc296be,ByDriver,NOT_REACHABLE,Customer not reachable.
+6806d13d-f654-484d-a6bc-a32808641c7f,046d2033-1e27-4e8c-adb1-6014f0f0ed2b,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+f66ac06f-cde7-4f1c-aee2-57e3cf74fe15,9ae62471-88c0-46fe-a226-ad41fd66a088,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+f7c0e75f-ed3f-4248-8c0f-7cab352cfe65,10cd260d-bebd-498e-96aa-a40e499c0c3f,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+242d71ca-8a50-45a1-b37a-3912e1b42ba8,aecc82d4-5a46-4394-bc90-7c6f83a00bc4,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+6962890c-e664-4cd0-a94b-5709586b2ec1,db4b3802-7fd5-46fb-bb46-2614026bf597,ByDriver,NOT_REACHABLE,Customer not reachable.
+NA,ddbb0014-5163-4527-8091-866070353ed2,ByUser,NA,NA
+69a758f2-4ac8-4c75-9342-91070cf133dc,5a628c35-01f6-4e90-a20f-ee04f0af2e28,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+NA,3841bdff-6bc9-4178-b195-e2df32426cd2,ByUser,NA,NA
+a9876208-c194-4ebc-b86e-6ebd02882021,ec606ea4-4eac-42b6-9248-c15f32a015ff,ByDriver,NOT_REACHABLE,Customer not reachable.
+d1f293f2-017b-44f1-9b72-09d05541ad2f,80dfc3fc-359c-48f3-8de5-ef04ae3b9aaa,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+236ed072-ce77-4bf5-87e1-bee7816f4c68,b7fb3bc9-314d-4975-8398-acf2234430e9,ByDriver,NOT_REACHABLE,Customer not reachable.
+NA,993031fa-f058-44f2-a8ed-56ab10b95eb7,ByUser,NA,NA
+NA,b83f967b-56d9-4f04-bc91-d09d722f95ec,ByUser,NA,NA
+04e13a24-30d5-4465-81e0-2c7dfa7c4eb3,955b472d-1add-49d8-b7a3-bd0751c7fabc,ByDriver,EXCESS_LUGGAGE,Excess luggage.
+NA,fc2f575a-92be-467b-af10-5a1737046eab,ByUser,NA,NA
+f9dacc4c-74e5-42e9-8f53-06d7f61df467,e1dfa731-d3c1-4e59-8c50-4d2a80218808,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+0fc52a84-9798-4ab6-9d34-955870a10f6e,febbe61a-704a-44d5-a9c7-6664dbc296be,ByDriver,OTHER,NA
+NA,06d53c7a-f8ef-48d4-a100-c6ad851fd02b,ByUser,NA,NA
+b500a824-f108-478e-bbbd-3e60319ca8a0,13eae6c6-ad07-48ca-982c-4f66367a9e9c,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+d229275f-8eb8-4e4c-9275-dc43db9488a1,bf9612d7-f13c-4600-bb5a-325b01c6fb82,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+64b70b2b-5440-4d59-940b-b93e7f7d0ba7,74ebde4d-abd2-4314-a2b6-640fb349c4a0,ByDriver,NOT_REACHABLE,Customer not reachable.
+33fd0c75-f1b8-49ed-acd2-a174fbdee709,4092ed0e-7f97-400c-a827-0bfd04a5e7f2,ByDriver,NOT_REACHABLE,Customer not reachable.
+NA,89f1a8ae-fba8-4eb2-b293-321dc00daa54,ByUser,NA,NA
+4377f194-0bd1-4b9c-b492-33ffc426c667,664c6ec0-5ca4-45d3-9451-4f8677adf59d,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+33fd0c75-f1b8-49ed-acd2-a174fbdee709,4092ed0e-7f97-400c-a827-0bfd04a5e7f2,ByDriver,NOT_REACHABLE,Customer not reachable.
+7bb97daf-8999-40a9-ba66-4e7dfb3222d0,567121f4-efe6-4383-b6d4-b80b375acb2c,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+NA,4544171e-4911-44f1-abc5-1f337575eb0e,ByUser,NA,NA
+749e44eb-e899-4a3d-9bf7-9f0b094cb548,40509483-2d46-4f8b-b6d0-240ceeb8343e,ByDriver,TOO_MUCH_PASSANGERS,Passenger limit exceeded.
+466e250d-a0a0-4085-839f-d0edbab3a37a,523ceef3-3bc8-4160-a158-4f532beee267,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+NA,da3242ea-a21a-46b0-b3b7-c9ad4d69a553,ByUser,NA,NA
+21c922af-ff86-4ceb-967b-924440c47f14,cdbaf5ef-5858-4e69-85e6-92b23d923f7d,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+1cd73e3d-cbaa-41e7-a10f-5229ec413400,7e4a48c1-687e-48a0-89f6-58b652e0b59d,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+NA,b293ef8e-969f-4140-828e-42f11551b933,ByUser,NA,NA
+dfaac1e3-edc6-4168-970a-e6fcb8612aeb,15a89d21-979a-4f56-8690-88b299629141,ByDriver,NOT_REACHABLE,Customer not reachable.
+NA,18c057ea-24ce-42b4-86d5-891b4bed2e65,ByUser,NA,NA
+16bd8ffa-cebc-48d1-b966-aa7e7e28b549,18d670b3-f72a-449d-993c-1eebc1e3dad3,ByDriver,NOT_REACHABLE,Customer not reachable.
+395562ea-fd35-44cd-9ec5-aebdd2d84158,fa8e70eb-9d60-497b-bdd8-8172d7df034e,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+e1b5312c-a540-411f-b6be-ef4d62eff5cc,fcb41410-4b53-4dcb-9fb4-053d62df17ab,ByDriver,NOT_REACHABLE,Customer not reachable.
+NA,d524cd12-22c6-4551-b80d-b8abec1f0333,ByUser,NA,NA
+1b159b45-2f91-47b0-86ba-cb4e68f67734,2009625b-fd20-4828-9e1a-9c977b54f6b5,ByDriver,NOT_REACHABLE,Customer not reachable.
+f7f7dd13-7a4e-43c1-abcb-f1081fbe2f9d,e71c6831-faa3-43da-8c4d-b6db44ca261a,ByDriver,OTHER,NA
+5c2f2844-a5bf-4a90-afee-aeea5dd452ee,3610027c-b1be-4094-ab1b-90b78fd29473,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+NA,148fc5e9-7f97-4f63-87ba-79f20d31a9ad,ByUser,NA,NA
+9306708b-1869-4312-b5d1-5ced921cd8a7,ab1c0dd0-726d-44ca-b755-b39539a956d2,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+49b66f2e-148e-456f-b245-74f24b25fa36,eb255377-7662-45f5-9716-45471303c040,ByDriver,COVID_RISK,COVID Risk. Customer not wearing mask/unwell.
+17133a4f-4834-45ad-8ff5-203e475f4aae,5bdce9d4-d2d5-4939-8849-0a67616b504d,ByDriver,NOT_REACHABLE,Customer not reachable.
+NA,01fc3cfe-bfba-459f-81d6-29eb2f8bd243,ByUser,NA,NA
+e0b05766-2107-431d-9a00-ce02a7c054a4,f099facf-0441-4fbb-8428-07036b2779d7,ByDriver,EXCESS_LUGGAGE,Excess luggage.
+d67aebef-b0eb-496a-b94f-bc8768978459,0fac477c-69a2-402d-8837-293da854309e,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+06fbad4d-78bf-4b3d-93e9-5d3253a4fc2f,06312bfc-8c26-42cf-8cbf-7316d1856b7a,ByDriver,TOO_MUCH_PASSANGERS,Passenger limit exceeded.
+4881201d-8704-491d-810a-53bbcccbbeeb,b00b3191-627c-4afa-a2af-f544b3bf76b9,ByDriver,NOT_REACHABLE,Customer not reachable.
+debf9622-f5f4-4f6e-8ffc-f3660debb091,957892c9-af47-47d5-9e92-36db37e38dee,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+acb2f667-56f7-4e0a-8b23-653609895066,a7f869f2-0f65-4307-b2b6-38302c13eb25,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+0fc52a84-9798-4ab6-9d34-955870a10f6e,febbe61a-704a-44d5-a9c7-6664dbc296be,ByDriver,NOT_REACHABLE,Customer not reachable.
+d0e3302e-de0f-4089-a6a0-34d0bb06224d,0e0735fd-a6dc-4737-938f-f375bc08a788,ByDriver,NOT_REACHABLE,Customer not reachable.
+2dd70690-4577-4b50-9a56-07122a94ff3b,4b1abae7-9c19-4f8f-b0c2-caa6cb4d332e,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+289760ac-4e0e-4920-8e18-4147d5aabe62,38941777-179b-4d2f-9ba1-b8165938e73b,ByDriver,NOT_REACHABLE,Customer not reachable.
+045c3e63-bcb8-4d6e-8be2-66b86ca7bc1a,d5a283b7-be4d-49d0-9583-93ec02a9ea67,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+fd2d8fb6-9d5d-40f5-8607-ae4ee0d83ed0,15797879-7b26-4530-9d00-6991fee25a7a,ByDriver,NOT_REACHABLE,Customer not reachable.
+7c170ebd-a62e-4014-9a9c-6cbf8401fee4,c2692549-1b40-4ea4-b3f6-412c68bdc9e6,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+NA,6e9a7ac8-6d8c-44d5-b74e-b27d2e2d3614,ByUser,NA,NA
+3771158a-60ca-4ce0-b6ab-81001ae73a84,45be1712-68a8-43f1-9b0e-64d72dcf7e7a,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+e9dd1440-51e1-43fd-bc18-286388d3a8ca,857f15c6-ceac-4213-93b7-10e3883b4c3e,ByDriver,EXCESS_LUGGAGE,Excess luggage.
+80c6fee6-3088-494e-b0f4-fb6e179eb694,e06691e3-7931-49c2-97e0-4a2afbc1fe69,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+NA,1a64253e-534b-4552-94f0-481b48a46588,ByUser,NA,NA
+NA,d14c194c-0fca-4bdb-b893-caeb0616f230,ByUser,NA,NA
+956e6ebb-e89a-4492-a36c-a417d54ff84b,7fc57bce-0cb3-41e8-b94a-5687c84c7231,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+NA,ecee6bfb-97e6-4d2b-b9df-13697b628c9c,ByUser,NA,NA
+9e6f5262-8b1e-41ed-a98d-587ab6f43bb8,b82dc39f-083c-4424-9434-a721abba9e14,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+637c3ce6-97b2-440d-b37c-22d13a6c9fd2,ffe958bf-aa52-43b5-9815-8c720b118c09,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+10715fde-0831-460c-acc7-61fa416dbf96,a27bbbd9-8ec1-40ee-bd7f-561751bc7ade,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+00fbe48a-db98-4338-8c08-83ec6cdf8540,5fadb0d6-baae-466f-a967-870c959b3fb1,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+a1d5e4a6-0fdf-4c99-a506-2ba9af6ceb83,913516a9-6097-41d4-b5bb-2db287b065b1,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+NA,020a1a36-98bd-4f3d-8f98-aeeb4f8096ed,ByUser,NA,NA
+NA,313bf971-3dd3-42a7-8e95-a9f99deac5b3,ByUser,NA,NA
+NA,fa2df296-666d-4e7f-b57f-e14fd288aa35,ByUser,NA,NA
+e27d99cc-bcfd-4683-9fe1-28aae1c47a95,3cfae808-5c4a-4a24-b4e3-16f69fa08743,ByDriver,TOO_MUCH_PASSANGERS,Passenger limit exceeded.
+64ba790f-cbaa-445c-85e4-0884bd614e32,2651f44e-d85b-4f19-9588-b5ae2339e896,ByDriver,NOT_REACHABLE,Customer not reachable.
+0373694d-4476-4ee9-8a5e-64e75a150987,079248c2-92d5-4a7e-8e86-d159a8eb9425,ByDriver,NOT_REACHABLE,Customer not reachable.
+6d8e733c-511e-4000-b069-82d4f4423eed,2a62e27c-bb12-4b2b-9e7a-c352e3f666b1,ByDriver,COVID_RISK,COVID Risk. Customer not wearing mask/unwell.
+9614a497-d0f3-483c-bc31-007dc14f91aa,241befe0-7d5e-4059-acc3-fdb826eb90b7,ByDriver,NOT_REACHABLE,Customer not reachable.
+a2e6e509-7fd7-4b52-9299-5d1d87701345,f3e70047-b1bb-45bc-866a-2059062d3635,ByDriver,EXCESS_LUGGAGE,Excess luggage.
+138ea6d7-d936-4067-bdde-b1c209cfd909,b0a08933-31c4-432a-9f8c-5613e037c21d,ByDriver,NOT_REACHABLE,Customer not reachable.
+NA,23b91c47-21c1-409b-b432-824cd2ac1d73,ByUser,NA,NA
+6ea3adc1-102b-40f2-8fae-94d5a03c8b19,03462c45-3342-4e98-9852-6831ce8b6812,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+NA,84c37a42-504d-4725-8086-2eafb44207cc,ByUser,NA,NA
+a499fdda-b58a-4e21-b9a2-9adddc088505,b94902f2-3f68-4c1a-9e0b-06f980e6926d,ByDriver,NOT_REACHABLE,Customer not reachable.
+51ad3215-485e-4982-b809-236a74bdf630,99b24c9f-20ac-4a7d-b956-2e5a7ad47aa8,ByDriver,COVID_RISK,COVID Risk. Customer not wearing mask/unwell.
+7200a861-1da0-4642-8d84-fdad9982dd23,c8f73eef-9c11-454f-bfad-ad1912bb8150,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+NA,3c9eae7f-0664-46d6-812c-bde3033731f5,ByUser,NA,NA
+ac0a12ac-51e1-423e-9b35-6b6f2a4542bf,3776cc90-e9a6-4334-9a18-ad2b892ee5ad,ByDriver,NOT_REACHABLE,Customer not reachable.
+59c61670-7663-41dc-88f8-29426ea7ab73,0c61597e-2301-434e-bf5c-386ee7fe2d0a,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+69bf5e8d-11c1-4925-83e7-ff42312c6c5c,1c0e7dac-4ca0-4964-800e-e0ee31b7e607,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+1d42905e-01aa-41f2-82cb-c62b54ca207c,fb8244c0-7eb9-41a2-85af-66418d8ffd20,ByDriver,NOT_REACHABLE,Customer not reachable.
+b881d6d2-cb01-4ce9-b330-33117797a687,f88a67b8-a9fb-49ab-bb05-c9b76a7bdae6,ByDriver,EXCESS_LUGGAGE,Excess luggage.
+NA,9bc2e811-4f61-467a-9ca8-72768c5e5b04,ByUser,NA,NA
+NA,75f6bfd0-8d58-4b93-98b8-a466a88e84a5,ByUser,NA,NA
+ff25607b-0696-42f4-be13-9f6ed6d32c42,3faf82f9-52f7-408f-9b61-e6ea876364f6,ByDriver,NOT_REACHABLE,Customer not reachable.
+NA,6cb9a09b-6fb1-4abc-bd81-3cfed324a6d3,ByUser,NA,NA
+0fa523d7-caa0-4ad1-851d-dd3af0a80b90,fe5c4fa8-1696-4060-92dc-55462e3d2b67,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+4e77afd4-640a-4724-8ee3-af0d86636170,e42f26bd-2150-4fde-8add-6d5106b426dd,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+NA,c147a704-29af-4255-848e-21bda00efb99,ByUser,NA,NA
+a723d742-3384-453a-9026-2170783afab6,6afd4f76-3e9b-4311-a365-3a93b887fee4,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+59c61670-7663-41dc-88f8-29426ea7ab73,f9d3d144-4ca6-4ca5-922e-78fef3b35578,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+215b5ade-04c6-4acd-979e-a035cc3efb50,c3950994-a837-43de-b846-7143d525436d,ByDriver,NOT_REACHABLE,Customer not reachable.
+ce6456e4-cbd5-44c8-8f63-a3d4ea3e6539,4fffd1ed-5b48-47b6-8cbd-2a96fa4c91ed,ByDriver,TOO_MUCH_PASSANGERS,Passenger limit exceeded.
+533c9bb5-ae8a-46bf-b7b1-82daf2140924,48e110de-2f22-4aa6-a204-f7c3c51348f6,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+NA,85bb7b74-a7b3-4577-9386-dbff1817ee7e,ByUser,NA,NA
+2a1e2b7d-1dfb-4c28-a7e5-1c6cc26f73e6,03c81caf-81d6-4a54-bcad-684e4f497a72,ByDriver,COVID_RISK,COVID Risk. Customer not wearing mask/unwell.
+NA,12e22a5f-bf20-4470-8293-417743201f88,ByUser,NA,NA
+NA,008cf33a-e3d8-4764-b70e-75abf8392f42,ByUser,NA,NA
+NA,12c9eeb9-534b-44ae-88f6-23a39e83d099,ByUser,NA,NA
+ee454a89-2ff7-4253-b520-66ea5c702d0d,1ddd79e3-7059-4734-85af-029f289da2b6,ByApplication,NA,NA
+1ab63308-db6a-4354-a0fe-c9d4b1d96dc0,24a88a2a-c868-4a62-a7fa-70f365bac6cd,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+NA,b971cfea-be2c-4567-9d69-8e84b64719ea,ByUser,NA,NA
+50f57eca-3f94-4839-826c-05fbe561c528,86f6f6a5-28ce-4ab4-924c-cb6af7de0f09,ByDriver,NOT_REACHABLE,Customer not reachable.
+8d2626e4-f084-4c9a-98aa-60f71fca95ce,544317cb-c3d3-436e-a4f4-7769c22b0f1e,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+f61d642a-3849-441b-8021-846442a3537c,39136e64-20f9-48c2-9f72-1fb3f5fa7a9b,ByDriver,NOT_REACHABLE,Customer not reachable.
+NA,c03a6cc8-02d5-4557-901f-e3a2ac86656c,ByUser,NA,NA
+d19c1ffb-0462-4e33-9be4-b52500fd0684,2a4c3110-4006-4c03-a203-d4925c9b2ba6,ByDriver,OTHER,NA
+c5c17962-d450-4a63-95a7-bbbc5d7d56cc,ca87e878-0b54-48ec-818f-749d646205c0,ByDriver,EXCESS_LUGGAGE,Excess luggage.
+NA,cf9533b0-e6ee-4a03-a23f-1b3eb279c3ad,ByUser,NA,NA
+de10eafc-e218-4fc1-8e75-fa1dee4b56e4,cd3c50b0-61f9-44f8-a6a6-7a342e2e34d6,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+0fc52a84-9798-4ab6-9d34-955870a10f6e,febbe61a-704a-44d5-a9c7-6664dbc296be,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+NA,81533e9e-4937-4f0f-8524-c625949989fd,ByUser,NA,NA
+NA,62341e85-572b-4864-a69e-53050eb12c4f,ByUser,NA,NA
+5d5d1aa7-3928-46b0-b6d5-29dfce3dfae5,7cb4b24f-7d29-43b3-9568-a7dd6f683e3b,ByDriver,EXCESS_LUGGAGE,Excess luggage.
+NA,99b24c9f-20ac-4a7d-b956-2e5a7ad47aa8,ByUser,NA,NA
+5a4d0895-0833-4c91-a4c7-a826df96737a,0b4bd297-1214-4be4-b946-0bc5a5b3ca1e,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+NA,544317cb-c3d3-436e-a4f4-7769c22b0f1e,ByUser,NA,NA
+79e54895-3687-4548-b739-fb7dde1cd8ef,9ad723dd-ef1c-4610-b37d-d67e81d4e1f7,ByDriver,NOT_REACHABLE,Customer not reachable.
+58c2b22a-612e-4723-8b5a-b9bb36b1a943,5d8b77a7-faa6-4d05-8ad1-dddfc8fb6af2,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+NA,99406b2e-b9f5-4ef5-8eee-571772c14ddb,ByUser,NA,NA
+7efb2596-bdfc-4e2d-8506-0c2dcdb2442c,45c7f4a8-509d-4f3b-9a60-a8066ed4ccc7,ByDriver,NOT_REACHABLE,Customer not reachable.
+3fe54472-e4a9-4084-8ce9-df7a8ad46398,8e1fc486-9815-4617-899d-544caee446da,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+035ea74d-fb1d-45fa-8442-3a4071b4b086,be8e4eb7-65a8-4c57-9474-7343e13d7e23,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+99e21b8f-9516-4874-9138-091b96a00ab6,33bf0392-d586-4d3a-8a83-d4d2cd24ac4f,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+NA,f5fd2918-a9fb-4971-a907-7086da5c092b,ByUser,NA,NA
+NA,42fa515a-7698-4d47-bdda-64ef77f6f626,ByUser,NA,NA
+e5bc5192-fc79-4713-9aeb-5bbe225fb199,b7958b94-421c-4edd-a5b7-dad6be42a578,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+NA,492a3173-f100-437a-b6f9-7a2ceabab8da,ByUser,NA,NA
+04e13a24-30d5-4465-81e0-2c7dfa7c4eb3,b38ac1a4-84b9-4c05-9d27-09159a26b791,ByDriver,EXCESS_LUGGAGE,Excess luggage.
+NA,e6a96a37-ae59-476a-935a-acdd4047ab76,ByUser,NA,NA
+NA,7bbccd84-fc6f-4768-aeb2-40ec463bdc2d,ByUser,NA,NA
+NA,3cee229f-17ca-426c-9703-c846db8863a4,ByUser,NA,NA
+NA,7cd94850-6d44-4b7f-9db6-5f4e09a86ae3,ByUser,NA,NA
+NA,56cf46d9-d1df-4e34-af53-b275ec695800,ByUser,NA,NA
+f2ae1ea8-ad8d-4e18-97c3-d2f7c8c4ee58,72aed5b8-dc95-4afe-be92-f65e3cdded60,ByDriver,NOT_REACHABLE,Customer not reachable.
+f0aa240c-bc76-4f7a-a3e7-363e37b8a87d,62b48f25-24c0-452a-85bb-c0116159eb20,ByDriver,NOT_REACHABLE,Customer not reachable.
+NA,7d88ee06-512f-484b-8412-13915fe3bd25,ByUser,NA,NA
+1d76ded9-ac25-4860-920f-51d69df920e8,071fea11-1e83-4a32-b371-77431690b864,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+NA,9096f4a4-d137-484d-9962-1c4c923e779f,ByUser,NA,NA
+384eee22-4dd4-4aae-9172-80c0c59b2372,a07343d0-88d1-4be6-b5a9-e60114ec69c4,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+NA,69a419f9-519a-4d1c-bd5a-29d25039c1ad,ByUser,NA,NA
+215b5ade-04c6-4acd-979e-a035cc3efb50,1b156f75-7bb5-4f95-bbe4-a13a3f6123f6,ByDriver,NOT_REACHABLE,Customer not reachable.
+NA,a32b50e5-a24a-43e2-82ee-85db8bfee5a8,ByUser,NA,NA
+NA,46f4053d-6759-4816-823d-b1ce2f217053,ByUser,NA,NA
+NA,74babe4f-5fea-4b01-944b-7413cdcf1755,ByUser,NA,NA
+0f6b97aa-c8d5-4cc9-8d79-07ac64ae9704,47160b30-317d-46a9-be2e-2f85bca05fcd,ByDriver,TOO_MUCH_PASSANGERS,Passenger limit exceeded.
+NA,bc974a7d-b71a-4c7e-a4ae-3bb0c0519b52,ByUser,NA,NA
+04e13a24-30d5-4465-81e0-2c7dfa7c4eb3,b38ac1a4-84b9-4c05-9d27-09159a26b791,ByDriver,EXCESS_LUGGAGE,Excess luggage.
+263319ed-1612-42b2-b1ee-087bb5c34c10,8eb9d586-1c12-4087-8943-3bdd16d232d7,ByDriver,NOT_REACHABLE,Customer not reachable.
+9aab5644-3982-408b-96d3-351622a7ea13,6b38912c-7f1e-4070-970b-83c29938baa8,ByDriver,EXCESS_LUGGAGE,Excess luggage.
+NA,e5aa4013-8a0e-454c-aa53-5d0d655d56fe,ByUser,NA,NA
+NA,82cbb8f3-643a-4cff-9c36-0414885e513c,ByUser,NA,NA
+NA,75a8f672-8fab-4201-98a3-f05439c3abdb,ByUser,NA,NA
+5d47be96-dfd8-4188-bc1c-577a76fdc2ea,75b90809-4466-4698-9d2e-6eab256f7def,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+NA,82b58694-9bc7-41cc-b629-3888e5e4fd46,ByUser,NA,NA
+9c304c32-1b1a-4669-ab08-f5571a1847be,a59661a5-343d-406f-9922-5127023633d1,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+NA,1b1abf55-413c-4875-82ca-59fb0494d916,ByUser,NA,NA
+3d3c00f6-3088-4f10-b264-cb83c77457b6,4a6a61ea-7ac4-477b-be58-4b9c13fddcc6,ByDriver,OTHER,NA
+NA,e2b2989e-280e-4168-aa77-96bd4b8b9ff3,ByUser,NA,NA
+NA,300527b0-4c30-4e50-a860-801386d2d21b,ByUser,NA,NA
+NA,a0c3a450-a065-450a-a78f-7dcf9e5e54f6,ByUser,NA,NA
+NA,ec7e1c02-63e4-4dec-b96d-96caa334e5c2,ByUser,NA,NA
+e372f2aa-06b9-4e83-b62e-8d0cf14d3cb0,8850b811-f3b7-45d7-9435-f493ca14474f,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+NA,f18b5fe4-ba13-4e4d-b7f1-30941b042775,ByUser,NA,NA
+NA,91ef1196-dd6b-4b43-b421-5ca6f1c1e882,ByUser,NA,NA
+f5073289-d12b-4a00-8535-3608c966ba2f,beeeb8c1-762b-4f35-be13-e371b486aaae,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+8325c01b-e060-4dc4-b6b7-24ca46550df7,568581b5-c6ae-40e9-9bdc-abcde8b0896f,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+abeaea69-a2ad-4f3e-a8a2-4732c31111ca,f3f55d87-55e2-4de6-ad89-d9d68d519b34,ByDriver,NOT_REACHABLE,Customer not reachable.
+NA,d7bf5e11-3104-40af-9c71-f1fce4a3f676,ByUser,NA,NA
+761d4104-1d2e-4caa-a022-ad398ece7743,ba5692a2-624e-4580-ae5a-97987d20723d,ByDriver,EXCESS_LUGGAGE,Excess luggage.
+NA,d785ad23-704b-447f-ba5e-64cf82e14315,ByUser,NA,NA
+NA,d5c028a9-4129-4929-8f07-b7ee402f07d8,ByUser,NA,NA
+2319283d-b2a1-433d-bc9b-451db77e37df,86112142-bbb4-4146-bf17-929527e616ea,ByDriver,NOT_REACHABLE,Customer not reachable.
+82173396-64bb-4d3f-a7f1-c63536d506fc,147c94fd-1bae-4d4f-acd4-28b9c1f7608b,ByDriver,COVID_RISK,COVID Risk. Customer not wearing mask/unwell.
+b80467ca-10ec-49e0-9634-8a417ac210bd,a1968c14-1d05-42bd-b742-0ab8076410a3,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+NA,366da451-611d-41df-a357-278198981dfb,ByUser,NA,NA
+a8dda349-ae20-4870-aafe-bf9c2500fb8d,9a0b66fa-5a7a-4628-a0cc-f645f06c29fb,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+b4f5c39c-cf6c-44f1-86ee-2023f9f1367c,37e76648-5b81-4b0f-ab35-814ddb9232bd,ByDriver,NOT_REACHABLE,Customer not reachable.
+74780c91-8941-4e7f-877c-4e556aa6aa2f,3f01786c-d28b-46d6-b052-5807905cd142,ByDriver,NOT_REACHABLE,Customer not reachable.
+f8a11cd4-e17a-4e48-9a23-128103e36e7a,3ba5d571-a8a0-410b-938e-eb758a4919de,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+78b7c82a-52c6-4f71-ac41-2293469fa6bc,5921d224-6693-4aee-9837-84f24b3d22bb,ByDriver,COVID_RISK,COVID Risk. Customer not wearing mask/unwell.
+62a21891-e974-4f0e-8169-979701d1c172,1c5ee84e-57de-4632-83fd-1f6d8f6720b7,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+bfc6a449-4f9b-49ed-92ae-1c6e6d793517,ad5249e9-4c97-4f82-ba6e-49e149d1db31,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+ca1e847e-9d07-46db-aaed-e357d7b4e5a7,11db6d80-b408-41a3-8b76-5ebc3e9ce775,ByDriver,OTHER,NA
+NA,8cd93c3e-3ecb-4288-b1e8-cbc206821e81,ByUser,NA,NA
+cc05a6dc-62a2-4c49-9ad2-cbc693e92048,e1e7fc23-f687-4130-b1c0-b7dcda80b35d,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+e254e5fd-b413-4435-b5f7-96bd30e96264,74b19f55-604b-4d8e-a6ff-e495693c9756,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+NA,39e174e9-e2e9-443c-8674-0783cd7af570,ByUser,NA,NA
+f377123d-c1ae-40c3-b1da-0c6e6a20d42b,3b3ea230-72dd-4152-8057-8d5bfc18b392,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+ecb88752-9885-4453-a685-a907b31345b6,b7ec0039-7144-4bb1-9c06-c9bd4278b118,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+d6070dc2-0095-4635-960a-fc2189276c5e,e21a21f9-ba34-4b53-8161-a4f58f5f0bb1,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+436271ec-e83f-4d40-9deb-85faf24fbfbb,a92cc674-41db-4f4b-ab39-711968dd3562,ByDriver,NOT_REACHABLE,Customer not reachable.
+NA,909b4142-d7ea-4dd6-9151-b65fb3d03c48,ByUser,NA,NA
+786dea73-3380-4d62-a95f-1f540601501e,6a99867a-dc03-408c-b4e3-a96ded702e09,ByDriver,NOT_REACHABLE,Customer not reachable.
+951d1dd7-3ab8-4add-bb98-c4f9dddfde00,8c769f15-b7b2-43ef-aead-f33c6d5893ac,ByDriver,NOT_REACHABLE,Customer not reachable.
+99454d81-c941-4fc0-91fe-404aead01991,58891a1c-d112-4030-85ed-ce02fcfee253,ByDriver,NOT_REACHABLE,Customer not reachable.
+6484285a-6154-4120-af74-0aa26cda8186,433cf695-7f90-4d1e-a03d-4461841b2768,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+NA,b5370a02-ee31-4cbd-82d6-1f6ff66ed8aa,ByUser,NA,NA
+b81c9ff3-02f6-4e67-8b10-976e07cc361f,2bd5b5e8-57b3-41c1-a22b-dd2bb6b55013,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+c9fe284f-5427-4ad8-8be0-147e517f7f55,2aecc271-0fe2-4405-b792-0f1f5c001665,ByDriver,NOT_REACHABLE,Customer not reachable.
+b1446311-5096-48a5-be51-47cc4f4cd544,a2a674c3-1e49-41fb-89c3-41583ad17ffb,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+35f2a379-28e3-4254-bd93-fa1ab10b0428,8a5117b3-20da-4e9d-8ac2-9b1170b4fc1c,ByDriver,OTHER,NA
+NA,9eaaad0f-47c6-4d7f-89a1-c96e29ccd6d5,ByUser,NA,NA
+b383cab7-5add-464b-aa2a-2fc89f7fc0cc,91f4c58c-3428-4189-8087-a79360875186,ByDriver,NOT_REACHABLE,Customer not reachable.
+69f6bb8c-7bd4-4ac0-adaa-1b40569ea84c,0a8c70d1-c0bc-428c-932f-5d2544e1de17,ByDriver,OTHER,NA
+ddf61d61-0907-4d73-bb84-4baa28a3113e,272586f5-a2f6-4810-80af-97d914bfc55a,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+6670f4f3-4214-426c-a7a5-a907b93bcca4,094aceaa-817d-4ecd-8763-a7541c887d2a,ByDriver,NOT_REACHABLE,Customer not reachable.
+NA,f923a326-2ad3-4fa2-9cda-b6089cb7f378,ByUser,NA,NA
+NA,c9b9eb56-4f90-4307-a3b8-d100c7e820f7,ByUser,NA,NA
+f2ae1ea8-ad8d-4e18-97c3-d2f7c8c4ee58,0bba1201-d1b1-47b8-9e9d-ef79b22d1da8,ByDriver,NOT_REACHABLE,Customer not reachable.
+24f1c7cf-a89a-4a72-9e9d-e123f9c2d182,9cd46f40-c898-47e7-bb39-d92caeb95c3a,ByDriver,EXCESS_LUGGAGE,Excess luggage.
+NA,11e2e6d4-3c05-48a9-ae95-3c6387703b6c,ByUser,NA,NA
+8fc561a8-de7b-486d-9456-d9e6fb2561cc,b5804a0f-1788-4f54-a788-65d02952c629,ByDriver,NOT_REACHABLE,Customer not reachable.
+NA,1c809afe-c174-42e0-b4c3-a9de4ce3f82e,ByUser,NA,NA
+NA,f7fbf18d-6d0d-4a56-b60f-542640de44fb,ByUser,NA,NA
+b233f7d5-cf1a-4efd-8db4-d60b08c28a4a,b61b92de-6a4f-47b1-8645-3d512fb52a0a,ByDriver,NOT_REACHABLE,Customer not reachable.
+df4077ec-9c07-4c1d-aa3b-8193929c4ebf,4e76f3ff-4846-4cc8-bad7-676a58bfb006,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+b5b9938c-a576-4c03-b0a3-aec84fb556eb,b637a89b-a714-42ad-9df1-e795aa2bd0a9,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+8802a6f8-b5b7-469b-a172-21a4c91855d2,418350dc-3c55-45e1-8a30-05b8dde3d6fc,ByDriver,TOO_MUCH_PASSANGERS,Passenger limit exceeded.
+1aa5eceb-2cdd-49f8-b28c-d4f2af80847c,d3dd688a-cdf7-457f-80ff-ee375e21baa6,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+7dfc97be-b23e-4e0f-9781-0cfb067b514e,a45609e8-24dc-4a31-9e90-cf037e7a18f1,ByDriver,EXCESS_LUGGAGE,Excess luggage.
+7e65e826-f2c1-45db-8b4a-c2e9e2b79630,abfdfb98-b06e-4609-93a0-bb70345040b5,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+1be0335d-1f48-4409-a055-2c4a341c92a5,543d66b7-cb3b-424d-8c16-1001ee048aac,ByDriver,EXCESS_LUGGAGE,Excess luggage.
+NA,ff1f0120-396f-45d9-9fc8-ac19102f19b1,ByUser,NA,NA
+bcaa17b0-a105-4dd3-84e3-0fdf8567664b,ef45f93a-359e-4a60-a2fa-7103c01bbbca,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+6562ad6a-23db-49e7-99bb-0993beab018c,61312b29-4c72-4c49-af13-a138cd425dca,ByDriver,NOT_REACHABLE,Customer not reachable.
+45d5b054-29ec-4700-881e-9951d391e3ec,6e12bd76-5aec-4b73-96e3-82d22186f9e7,ByDriver,EXCESS_LUGGAGE,Excess luggage.
+b8e6600e-96e3-4245-b8fb-01d4ea302532,3af7838d-2c5f-4bad-886b-827720ea7822,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+NA,2c267dab-1f05-4544-a594-2985e18b945c,ByUser,NA,NA
+cc14084e-9f42-4382-ac34-8899b4cf4c8b,060c50de-766e-4346-92b6-f193121effe0,ByDriver,NOT_REACHABLE,Customer not reachable.
+761d4104-1d2e-4caa-a022-ad398ece7743,b75f9e43-1b24-435a-9624-c61c1bc1db58,ByDriver,EXCESS_LUGGAGE,Excess luggage.
+NA,c5c3c4b1-8c7c-48b5-8255-ef4e55ea8b5d,ByUser,NA,NA
+3b9bdfae-b21c-4313-8e16-0fa25f178ec2,a4d624da-44da-4af7-8963-c26faf446e21,ByDriver,NOT_REACHABLE,Customer not reachable.
+NA,40130834-edac-44a4-b493-9a8ad74bd92b,ByUser,NA,NA
+NA,e07fe1c1-4c3b-46f1-afe0-19796eacdb39,ByUser,NA,NA
+51db23ff-77b3-4e65-afe7-be23ff39c003,3badc287-8754-440b-8185-380878a04d28,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+cdce50c0-3e31-430e-8508-4819619ddc2d,eb5529eb-35c5-4655-98d4-73c8a754ac92,ByDriver,NOT_REACHABLE,Customer not reachable.
+be91aecc-6e48-4ccb-a76d-a2d166177f76,adac2b37-03a8-40df-a758-75d687c3e8b0,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+4ad46208-d94e-4445-a47d-389a09c4a319,153f491c-f0c2-47e7-8148-1f9a5391641a,ByDriver,COVID_RISK,COVID Risk. Customer not wearing mask/unwell.
+dbcf15ea-32e0-48e0-bfa9-f388e3e0bad9,0fe27efc-845e-4075-8cc2-742eec0a4f7a,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+NA,68ef94b4-aba2-403e-930f-63325abd6fca,ByUser,NA,NA
+NA,b06ab938-60f1-4599-9855-6aa4b2afe15c,ByUser,NA,NA
+42d347ef-4a2a-4f04-9ea0-f94c9127849b,0ee5ba26-b101-4672-a6b2-2639b32ac5c9,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+a16265fd-b729-4a12-bb73-728d6d677166,22e95647-08a8-41a3-b73a-59dfae218262,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+NA,ae8fc6a0-3348-411c-97c2-9e784c58f655,ByUser,NA,NA
+0a18ab93-6d6d-48f5-a345-0bce1b34437c,270d8369-b3ee-4b2c-9555-3c601cc7d566,ByDriver,TOO_MUCH_PASSANGERS,Passenger limit exceeded.
+4afaafcd-54e4-433e-95b6-ae14cdc6fc9f,9cbac779-1c61-4977-8ef0-6b7050cb43c5,ByDriver,NOT_REACHABLE,Customer not reachable.
+NA,0ea400d6-4ac8-495f-9702-380b75f396b6,ByUser,NA,NA
+2bf33b3a-56aa-4ae9-97d6-e4d281ad6ed5,9a5daeba-7f59-4a1b-b086-4c48109d18bb,ByDriver,COVID_RISK,COVID Risk. Customer not wearing mask/unwell.
+e532541d-fd93-4fc7-a05b-925710318031,6bdc5291-3e80-43e6-ac5a-4cba4cbb0818,ByDriver,TOO_MUCH_PASSANGERS,Passenger limit exceeded.
+NA,d95fd64b-3972-4a82-a2bf-7f414065a4a0,ByUser,NA,NA
+cac4039e-ff58-4a31-9cbd-7e9953849a97,7f2d7889-271c-463b-a49d-a7d33238267e,ByDriver,NOT_REACHABLE,Customer not reachable.
+NA,707a27dd-a73d-4b29-a87c-45be5127f0ba,ByUser,NA,NA
+NA,c139e143-dee6-473b-926b-0637b165aed4,ByUser,NA,NA
+34d0b8f9-0be6-4eee-863b-dfe81bf37b03,6212b246-8409-4f61-833f-87a9e3b1b3ac,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+7c607b93-f024-4bd7-8517-1a592654fdf2,389e6c0a-be47-4faa-8446-d03bf40c615a,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+536250b7-5e5e-458f-a5d5-7f6a55afaee3,63503052-6993-43a0-9e91-2ed075d9077d,ByDriver,NOT_REACHABLE,Customer not reachable.
+NA,e0219e39-4465-4c11-a2f5-23e81b4ae005,ByUser,NA,NA
+ac0a12ac-51e1-423e-9b35-6b6f2a4542bf,e848eba3-cd24-464a-aca8-5d595e7d4328,ByDriver,NOT_REACHABLE,Customer not reachable.
+c9fc9fb3-c6c1-48b2-8ddb-1d3894012632,daa7c95b-ed8a-4f03-a82a-5bf92aaf3226,ByDriver,TOO_MUCH_PASSANGERS,Passenger limit exceeded.
+8c1ade0b-1857-4981-bae6-88e423a6de7d,0c18c045-a64c-450a-8e8d-0ad2d45e425a,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+NA,4d4c1f66-67f3-4f27-af5a-b922544a2cb8,ByUser,NA,NA
+ac0a12ac-51e1-423e-9b35-6b6f2a4542bf,45051b6b-2ef8-4959-bafc-cfce68ad729e,ByDriver,EXCESS_LUGGAGE,Excess luggage.
+594a21f9-cc78-40d3-b5b5-9ffe6a466823,b4548430-5f28-403a-a2f9-5e7373d8affb,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+404d5710-460d-453b-a630-193837c205a9,0d8bad9c-963b-423d-914d-a6bde7e6b797,ByDriver,OTHER,gg
+7d8ac6ad-0b57-48ad-b49c-61aa0e81c42c,a3838f1b-eca5-486b-a1dc-cdccd4ab589b,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+ca8c7f20-4aca-424d-bb04-d803bfabea18,e8090c17-7692-4986-b944-5674d15fd411,ByDriver,OTHER,NA
+NA,bf01add7-f97d-4772-878c-9a71cb5d91a8,ByUser,NA,NA
+45429ed2-ee1c-40a3-af4a-f03cadfeec58,0b74d06d-3d32-4fa1-acb9-6149a50a806a,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+2d1f38fb-7833-4ed4-a334-645cfd73ba5b,9c7227aa-7efa-478a-9869-ccea33dc24a6,ByDriver,TOO_MUCH_PASSANGERS,Passenger limit exceeded.
+NA,8a8f58bf-71c8-4b76-b58d-79f6b5568446,ByUser,NA,NA
+NA,3b1071a6-63e7-4554-bbaf-6f20d4daf250,ByUser,NA,NA
+NA,23c66458-f3b9-4150-986b-d9f235db6a1a,ByUser,NA,NA
+3cfe8245-83f2-44b6-abb2-b1992b5306a4,a373188d-f7f1-4ea1-b981-8cb4778a8a18,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+NA,8a66de7e-8aec-41b6-97f4-a6e34468fc79,ByUser,NA,NA
+7acd6e85-c6bc-471c-8219-8754d100cd5c,8ed3f8f2-a23f-4850-979b-dd62b971dca8,ByDriver,EXCESS_LUGGAGE,Excess luggage.
+5a4d0895-0833-4c91-a4c7-a826df96737a,a35d9766-ea0d-4306-b568-7555c74b5a37,ByDriver,TOO_MUCH_PASSANGERS,Passenger limit exceeded.
+d70d0b12-e9b1-4bbf-84f1-7d37344db1ea,504f3a10-065c-4991-a4c9-c52f4c8cd3a0,ByDriver,NOT_REACHABLE,Customer not reachable.
+NA,5bd38cd4-56c5-4139-99bd-244e3db84be4,ByUser,NA,NA
+50bb9eee-5212-42e8-bb7e-37ec4dce2c7a,1171d483-8223-47c4-88c1-6deb29856f99,ByDriver,NOT_REACHABLE,Customer not reachable.
+NA,f5951633-ad04-4dd3-8339-55658dcb2a7e,ByUser,NA,NA
+89066d9d-d197-4913-8992-c3ff0a8d9bb4,53b69f04-6909-4a5b-a773-ad7a01a13750,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+NA,394b0239-48d9-4bca-a51a-167cb205145e,ByUser,NA,NA
+10987824-e9ca-47b9-84d1-0819917dc6e8,0572f182-3efc-45a8-9b9c-32b4faf705b3,ByDriver,NOT_REACHABLE,Customer not reachable.
+1e7abc64-18b1-4477-904f-fecdfbf2c9da,469ecb69-4456-4819-a6d5-161d4b6db149,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+NA,cd60ce13-930e-4eeb-9ba6-d3000b34b073,ByUser,NA,NA
+8e536cf9-4b40-49e5-bbec-636608e17d8a,9b766096-707a-41d8-95b3-bd2b62a7eeca,ByDriver,EXCESS_LUGGAGE,Excess luggage.
+8039df9e-c43f-49db-aa14-5de13fdda1f9,caff5f59-8eb2-4d21-b8fc-16c0e523b5ab,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+NA,ea497448-bd95-4c7f-a788-9a0df42e8b4a,ByUser,NA,NA
+21fcf56b-3b44-4bed-9d5c-31cd589906e0,b3fcf791-258d-4bc0-b072-38e6e0f415e2,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+d2024544-a850-459e-9d3a-b0f226c0ae65,01e91cb6-59b9-4d95-8ccf-d62d26e0112a,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+NA,457b2376-6ba0-4137-9aa2-ef887b5e6820,ByUser,NA,NA
+NA,9771bd21-41ba-4bf6-80dc-4055ecfd2507,ByUser,NA,NA
+d5d160f5-3f82-42e0-812b-5213376aadea,cae63772-886b-4af9-8f03-154e09a050fd,ByDriver,NOT_REACHABLE,Customer not reachable.
+a8d8e1c0-e6c3-407b-8eaf-e3f92b825f61,861e86f0-3854-400c-abe7-42447f745f80,ByDriver,TOO_MUCH_PASSANGERS,Passenger limit exceeded.
+33ee3c7a-f1b6-4663-9ef8-c61ad8572cae,1032f551-2613-4337-9593-de33b2910c7f,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+NA,126e8abf-a0ae-4512-bf8a-e2aace60aef2,ByUser,NA,NA
+0b4a46a7-fc06-43d0-9fe2-72fe88352ad7,b4ed19f3-da48-4576-92c4-17e6f5852bd0,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+NA,de5a4e06-973c-4594-a0a1-a1b9c3d60eba,ByUser,NA,NA
+07158e4b-c895-461f-95f7-cbb596dea2b7,543331f9-3317-4fcc-b18b-d9cc5dea781c,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+NA,68191fd2-e12c-4faa-8327-4800f8a03512,ByUser,NA,NA
+NA,266a0800-307f-4396-b488-38108a4b07c2,ByUser,NA,NA
+2eb0f611-d6a0-4c7f-8782-90d01fb33d3f,093eff8b-d162-42c8-b8e1-67d13b07c0f5,ByDriver,NOT_REACHABLE,Customer not reachable.
+NA,54ca1144-8143-4a7a-97ac-b2a441213af4,ByUser,NA,NA
+NA,88a39851-660e-4fd1-bf9f-5522902fdcac,ByUser,NA,NA
+NA,97fa162d-17bc-4edb-bb13-ef2a6df41022,ByUser,NA,NA
+bf7989c8-4509-49dc-8dfa-f1b7dc84dadd,fbfca257-ed36-47fe-89b9-82a09b9fe71e,ByDriver,TOO_MUCH_PASSANGERS,Passenger limit exceeded.
+594a21f9-cc78-40d3-b5b5-9ffe6a466823,d6413c98-94ae-4981-a933-710c62362e98,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+d7e83a50-19ee-4628-bf95-64013d88acda,b1e61d94-e698-4154-9d4e-f721597ce64d,ByDriver,COVID_RISK,COVID Risk. Customer not wearing mask/unwell.
+1e4a07fb-3860-4b01-8878-66599bced962,b5ee342b-3754-42fe-9406-4f2221c2525c,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+ad1704c8-597f-47ea-981c-33d3908a836d,5038a365-ebd4-4ac3-a939-9569689d44c4,ByDriver,TOO_MUCH_PASSANGERS,Passenger limit exceeded.
+e9150101-4661-4c26-8e81-8bb8141eb3bc,fc2bf750-902d-4964-aa48-ab39a992a004,ByDriver,OTHER,NA
+0636f8b4-761c-46df-8257-cf15f5cc7d85,1ad5adcc-c8a1-4cb1-9283-43850a0d9684,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+47f589d4-f5a0-418c-8bdf-177f542afadc,aec2693e-7720-402a-8fff-3c52cf3801ed,ByDriver,NOT_REACHABLE,Customer not reachable.
+52301173-d314-4836-a00e-7cdfed8378d1,2accb4a1-adcb-4952-bc7c-52ac120f89f9,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+e38b10b7-4ca6-4790-9dac-52f236c7fdd0,17156e60-3ce6-4efe-bfc5-96e21c24bdf8,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+ba995bbd-c6c6-435d-bba5-c8bc03cf2118,36768d5a-7f5b-4cc0-9ff2-ae04fea6bf4a,ByDriver,OTHER,NA
+NA,34c3561b-9e61-45d7-8f67-fb4dca949806,ByUser,NA,NA
+NA,b3278c0c-528e-4025-85f5-f0ce2af91631,ByUser,NA,NA
+634e11e4-8aeb-462c-ba8c-7769956d4b9d,d33dc837-4a8f-47c8-9b6f-2accc3c59113,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+f5334181-1fee-4bc8-8e0d-8d541c6dec65,d197501e-128c-4dac-a3a2-02a00d322f03,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+b405340d-ca98-44d8-87ab-df27e2d002ed,9cb62709-17e6-47f8-b227-881a72266508,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+NA,9f50c3b7-4bcd-4586-9112-b7cb67760bd7,ByUser,NA,NA
+NA,4312b84c-c73f-47c4-a5c2-fca93dd08d92,ByUser,NA,NA
+2fa9b833-3d4b-4b9c-8b81-2dd296243afc,027d453c-1baf-4b57-b501-92360f1c5250,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+NA,771c152a-ed7f-44a0-9554-df4214115c30,ByUser,NA,NA
+36287dee-d16c-41f7-9c43-52ded4bca4d9,b715387f-6948-412d-b849-1f831e258a7a,ByDriver,NOT_REACHABLE,Customer not reachable.
+51db23ff-77b3-4e65-afe7-be23ff39c003,785ec76e-d60a-4670-be32-8182ebfea30a,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+e6d1fba1-2925-47f6-9cd4-820249b64a4a,8defd5b1-c43a-4ae8-b420-47e8070faa8a,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+546380de-b0d3-4f4d-b0a0-afaba153082a,a91d8259-149c-435a-b993-f4b836afd188,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+226e49f8-8b67-48d7-85a3-208d558001e0,fb46f4d3-27de-4c0f-b240-7be33b5f6bd0,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+ad1704c8-597f-47ea-981c-33d3908a836d,0fd21cdf-63be-4dc3-a85b-9e0f2b533538,ByDriver,TOO_MUCH_PASSANGERS,Passenger limit exceeded.
+NA,962d63bf-7123-46ef-b4c2-e7779c84a37c,ByUser,NA,NA
+40ce4071-e1a0-4ea9-a67d-928e5d68b7a7,04f61d83-e91e-41b8-bd55-b927e8d37ddc,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+90afb146-de5a-437d-872f-e8e82c2c31d2,e5651dfa-5821-4ae1-93e9-303ad8f4b995,ByDriver,NOT_REACHABLE,Customer not reachable.
+eb195283-33ba-48f2-8703-e5844c63412b,2fa7011e-cf3c-4946-8687-3a12a96aaf3d,ByDriver,NOT_REACHABLE,Customer not reachable.
+NA,8e1fed5f-89fb-4ae5-8f66-aae542ee1adf,ByUser,NA,NA
+011a4159-f959-48f9-8a46-34e8290b6570,65108ccd-e4bd-4c8c-8220-c96e19383760,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+9ac8ffce-28f3-42d8-ad83-5c35751e2913,4c4f0c4c-297f-4488-9526-cb31acebd75a,ByDriver,NOT_REACHABLE,Customer not reachable.
+NA,fcd3c41b-fcac-42a5-ac18-cd0c4e745be2,ByUser,NA,NA
+71ecd07d-e258-45bb-adf0-e7eadd782199,8dffea5e-b3c3-426a-9f04-d7e207adf245,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+NA,3a8c6c97-5249-43f0-83bd-f549c67b443b,ByUser,NA,NA
+b1cac8f5-1861-4791-9d73-e18c96b91319,9bda4f28-7670-4625-961b-beaa90aa8bca,ByDriver,COVID_RISK,COVID Risk. Customer not wearing mask/unwell.
+436271ec-e83f-4d40-9deb-85faf24fbfbb,20e12356-993e-4910-93fc-e6ae1c2ddd6c,ByDriver,NOT_REACHABLE,Customer not reachable.
+81cb445b-56f0-49de-be08-b706a77e3815,043bfbe5-d7d7-4809-8d29-71de72879fb4,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+NA,8f96755a-9c6e-46e8-a1bf-c3d2a7b55476,ByUser,NA,NA
+NA,d7f80e5a-266d-479f-bc8a-c861796a5e2b,ByUser,NA,NA
+642bc490-53b4-4b49-9fba-76208562aed2,d57658b5-bf4c-469d-b104-39168dabbd43,ByDriver,OTHER,NA
+aa3be7a0-4a6b-4e08-9c16-efe0c8c5287d,fbde55b0-f231-4063-8401-f21b23687845,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+NA,6a026b81-adef-413b-83b5-8455ac3882e3,ByUser,NA,NA
+b5ad151b-ae29-420f-8132-77a162b743c0,d7985885-971e-45e8-8c93-aca8b30a0946,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+495ec4ad-181a-44b8-9ac6-dc4049da0069,fe7122bd-afba-414f-b1db-b2f92c06e41e,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+NA,efd882d5-20d4-4132-8866-5b0fe5aa8115,ByUser,NA,NA
+5dcb1a6b-a293-408c-b826-a4706fc0d1cb,5b5c4550-9c6b-495e-9125-4c1895597da4,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+NA,5e4f3d73-6318-4f31-b08a-6ae2cf0d2e03,ByUser,NA,NA
+42294792-1ea4-4e79-b3b1-49a5488dc5f3,088e6dad-2079-4097-ac2b-1d4c17a676ee,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+8371885b-a5b6-41b2-9be2-2fc90cdf0662,c79de5d1-8216-44c2-ad09-1c885fa688f5,ByDriver,NOT_REACHABLE,Customer not reachable.
+b0123201-a33f-46e8-ae28-1d5b568f6453,e00fc499-76b9-4f19-9222-09c17d29a5f3,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+NA,e729c174-e375-49dd-9d07-a74c6d4bda8c,ByUser,NA,NA
+NA,94f990a8-b6cf-407f-a0b8-00c0fe637798,ByUser,NA,NA
+NA,c6ae2878-7031-4132-aeb4-94a8bf622909,ByUser,NA,NA
+26987220-07df-4060-823f-0b9da7543169,30d3a362-ba23-48bd-97eb-0421cf997672,ByDriver,OTHER,NA
+8bb9b583-a407-40ef-89f7-f70105231332,afe9bf24-5d51-4e67-96d7-e52d34dda382,ByDriver,NOT_REACHABLE,Customer not reachable.
+684ad450-607c-4b32-bb28-10663610ee3e,3775f273-6557-47d1-baeb-ef19c7e29b1a,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+b2242cc9-dcb4-41f4-9957-7eb1106c3e02,7b8133b7-32cc-43fa-afac-b8ece25e25c6,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+ed1e1b2a-35ab-479b-b16d-bf11152858c4,fb85f2f0-dcc2-46f5-9556-0193a2fa0708,ByDriver,COVID_RISK,COVID Risk. Customer not wearing mask/unwell.
+ecd800e7-af49-4e10-a054-0295f15bf72a,2206c5ec-da27-41d9-aba7-ce7660c7a41f,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+018b647f-084a-4188-be50-f53bf7b29bfa,45d3c455-39f1-4a5b-af51-b299968f2097,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+NA,2e3befb9-fa46-48ca-9de2-de189f2db5cb,ByUser,NA,NA
+NA,d76740d8-8625-40c9-b7b1-54cc2e87e2af,ByUser,NA,NA
+aa7f95a8-2344-45ac-a6a9-90081c49be3e,1efe4357-a305-448f-b777-750e89e54582,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+a734a0e9-ef62-4c05-b6bc-4e7c7f36804d,fb2d2840-6c2f-4055-8e55-9e3832759d62,ByDriver,NOT_REACHABLE,Customer not reachable.
+NA,6534dd20-ec61-40a3-9e06-eee1726c9480,ByUser,NA,NA
+NA,d90d9ee8-184f-4487-a7c0-4d0e39d95919,ByUser,NA,NA
+NA,4e2aa3ad-5e81-4cd5-ad6c-182c5f262ec6,ByUser,NA,NA
+NA,c6a1b2f4-07d7-4797-98df-5fcde21c780d,ByUser,NA,NA
+2b503cce-9fe7-48b0-b2fc-4a644a04f30d,2142d426-8d71-41d7-a62b-ae4e2a2489e5,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+f58468ff-4980-4e26-8c8b-175d945d12d2,1dcb4324-b7b9-4f46-80e0-a380a4dd0962,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+NA,bf31d13e-ac7a-4c23-b2c1-678a579f61ed,ByUser,NA,NA
+116199c1-41dc-4db9-863a-07d3e77b4a37,125f31b8-5efc-4dfc-9d5e-af89af7b4a11,ByDriver,EXCESS_LUGGAGE,Excess luggage.
+6ed15cb4-7cd4-44c6-87d5-9d0b6a15ec4b,594dbac7-2eab-40f2-9b97-503699a9be92,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+NA,930813cc-8573-444a-865d-f463a7460701,ByUser,NA,NA
+NA,67151f65-e868-4ed9-8875-bee88629e6dd,ByUser,NA,NA
+02b67873-9128-43b5-85eb-9619e285635a,16a1e4b9-4b9a-4a45-a359-3d4cf489f503,ByDriver,OTHER,otp wrong showing but it correct
+NA,079c39d6-8e15-4bab-9187-e8bfe4ee5cf8,ByUser,NA,NA
+709e5f5b-77c4-424a-8c25-5a1c3b006af2,efe16cf3-6261-425f-b3da-889a653e811c,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+NA,256e9b4e-f9f8-4e72-a3c7-6d9b0bdc7d4d,ByUser,NA,NA
+50f57eca-3f94-4839-826c-05fbe561c528,b8aa8b73-2f3f-4524-8eb9-682071cd1a3f,ByDriver,NOT_REACHABLE,Customer not reachable.
+e4e5a728-3f8f-459e-b297-dc022d466460,055f50f2-21f8-4fb0-ac0c-467bf4384f9c,ByDriver,COVID_RISK,COVID Risk. Customer not wearing mask/unwell.
+NA,feeb3c6e-d245-4359-bb65-1df0ab81da66,ByUser,NA,NA
+NA,036d7c32-c948-4811-b570-03a5a5126984,ByUser,NA,NA
+c34e22f2-f504-403a-a79d-82dd9ed94dcf,d7fa89ad-cca3-4b9b-919e-ae5337aadc9c,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+aa3be7a0-4a6b-4e08-9c16-efe0c8c5287d,7f2d0e55-e6c8-4602-b905-8e85960e10ce,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+75705361-ef44-4b3e-8263-1532d430265e,ca47ea70-b587-43a3-86aa-d14ca166557b,ByDriver,NOT_REACHABLE,Customer not reachable.
+NA,0116ffb0-d28d-42a1-89cc-8f2561379c2a,ByUser,NA,NA
+d3b043b9-4860-47c6-98d5-1cad4be799b3,e20dec7d-e200-4301-8082-a4aefbd925ca,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+6a466d23-e6a3-4087-9f2e-d82ed1349930,752857dc-e4b8-4929-8563-6d2a592fffd4,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+a5991cfb-9245-4293-984b-6b0c7524b425,4c1c5e61-413d-4f22-9d7f-6a6716c7450e,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+NA,cc70aec9-cead-4b53-8b36-8ba85275d7bd,ByUser,NA,NA
+b36af548-ca21-467f-b57c-668a8519d8dc,35542f2b-44a2-4d68-a4b1-5e13431e2789,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+NA,628e1047-0fd6-429f-ab1b-e2d2b74722a0,ByUser,NA,NA
+14a18c99-c432-4165-bbbf-442e126dc18c,d47212dc-c3f6-41fd-8287-48163b5304c7,ByDriver,TOO_MUCH_PASSANGERS,Passenger limit exceeded.
+NA,c968a9f6-2f0a-494c-a0ef-28dd7c7c9cea,ByUser,NA,NA
+NA,f7379309-64dc-48ab-b830-7e53a8186d83,ByUser,NA,NA
+dd1ec880-7396-4da0-8bbd-34809a486e9e,a19e956d-80c3-4175-978a-4ff33bb0c2bb,ByDriver,OTHER,NA
+02b67873-9128-43b5-85eb-9619e285635a,16a1e4b9-4b9a-4a45-a359-3d4cf489f503,ByDriver,OTHER,NA
+NA,54375268-5d7d-4db7-8f63-57828fc5f22d,ByUser,NA,NA
+7e65e826-f2c1-45db-8b4a-c2e9e2b79630,0b459a5d-41d2-4768-b030-824122bad3bf,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+NA,c5935bc0-178e-4cc3-9b0c-7fa733fb2bc0,ByUser,NA,NA
+NA,61f6f04f-9927-44ec-860e-98495ed14878,ByUser,NA,NA
+b26501e7-c84e-44fb-befb-142510035ca0,1dd55f17-d0ca-45ec-ae2d-24a8f8b5d409,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+NA,5212bf3a-f9af-42bc-91d8-a08df977f566,ByUser,NA,NA
+d78cdb5d-1803-4eee-96a4-05de36eaad78,db34c751-72b4-4b14-b34e-22af196db584,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+88608ced-9992-4e47-ba37-f211d59c0f00,75fc14de-fc25-478b-b201-a611c61f4017,ByDriver,TOO_MUCH_PASSANGERS,Passenger limit exceeded.
+d0516056-d0a1-47d0-a0df-7550fd721b9b,a8652bab-2ac3-45d6-b969-bc92f8060c4e,ByDriver,NOT_REACHABLE,Customer not reachable.
+NA,2b3fb79f-b1a0-4f9f-ae40-364833b658ac,ByUser,NA,NA
+198899f9-8be9-4531-86e9-3ddabdbfe6a5,c9618c5a-a8e7-475d-b117-6339888c0150,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+3fe54472-e4a9-4084-8ce9-df7a8ad46398,08c02901-871c-4a69-8219-c2738e044c35,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+NA,34fa05da-9aa0-4c1d-93d4-a6f58289ab1a,ByUser,NA,NA
+NA,fc9ef014-4c3b-480f-a41c-047209f0fe59,ByUser,NA,NA
+NA,744b5d21-2485-497b-9fc3-890a4464478b,ByUser,NA,NA
+e37eb22d-31f4-4546-b557-a4828a385325,71784279-d2cd-4e03-b299-8b7c9d0ea7ad,ByDriver,EXCESS_LUGGAGE,Excess luggage.
+efa6c64c-0187-47b9-8bdc-5efa02a72e40,8b3ab306-9183-4c9d-b3a8-a6902db52e41,ByDriver,EXCESS_LUGGAGE,Excess luggage.
+3929ea73-e96a-4722-859a-43c08691ed30,5698499d-43a8-44ac-bd6d-0ceb4688c2d1,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+4964f801-0d46-438b-bcd2-4e8252849a6d,827f3b85-6732-4bf2-b37d-c9d45d16d0d3,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+NA,b845a6e6-1d5f-42a9-946d-8744e3c1e6e1,ByUser,NA,NA
+32aed644-488a-4b3d-9a26-aa5ef3dd480e,e5a2e46e-5e15-4f28-a6e4-3480ab9241ad,ByDriver,NOT_REACHABLE,Customer not reachable.
+90afb146-de5a-437d-872f-e8e82c2c31d2,65cdea3c-e0da-4b49-80b3-9568fd6b34e6,ByDriver,TOO_MUCH_PASSANGERS,Passenger limit exceeded.
+NA,a06e63a5-bd54-46e3-8dd0-7752bb73eff6,ByUser,NA,NA
+778461db-d903-4f8a-9f14-2708720bdabf,0c15da27-d2cf-4ebc-93ce-86a6809c3460,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+9da8f464-9825-414b-a957-1a06aaab7f4c,089c0114-3301-4489-8e0b-3c4eb17da6b1,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+NA,ab914533-3d3b-4868-86d6-620f83d8f34f,ByUser,NA,NA
+NA,8fa68a08-c6ec-47e3-ab0c-0e178c446df7,ByUser,NA,NA
+546a2186-876b-4643-a399-23b326b44e3b,ad92b565-35df-4a2d-95e1-e02e0120b4e3,ByDriver,NOT_REACHABLE,Customer not reachable.
+f9f22ebe-6866-4fda-9c60-2c787223e9ea,76c3a1d0-7a60-47a7-a8a0-cb7a112a108f,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+4a78baa5-dd17-4427-9a74-4e1043a2300e,87f0df9d-82cb-4944-b1c3-a658a4f118ba,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+NA,6fdadb8c-3187-472d-8aa5-7615bf9f8e4e,ByUser,NA,NA
+c05fad04-3ea5-4b00-a6fc-7fd38dbec137,4fb75743-86a3-4e62-b977-d0380ebf1619,ByDriver,EXCESS_LUGGAGE,Excess luggage.
+NA,dc91db29-2f8a-4328-ac56-61045acf1c15,ByUser,NA,NA
+NA,15974bee-5c72-42ea-8115-aa5aaa4fd7ac,ByUser,NA,NA
+NA,91f761c3-0c38-4c73-9898-2e0dc327484e,ByUser,NA,NA
+00329573-cf3d-41aa-b5ca-3175fb1cb005,1041e085-9a83-4d12-afee-bfbcb7e58798,ByDriver,NOT_REACHABLE,Customer not reachable.
+e39a436f-396f-4a7e-89a9-d134daf2fba1,0a2f188c-3666-42a4-86b5-2bb7c75ddf23,ByDriver,TOO_MUCH_PASSANGERS,Passenger limit exceeded.
+NA,515f0b5d-2d33-404f-aed0-293b88e55dab,ByUser,NA,NA
+NA,fe0caee2-9e6f-4dbc-9c27-2620427cb928,ByUser,NA,NA
+f57ceabf-985b-4f6f-8761-abca2444e411,b06a887d-4dab-4800-a2ee-604cd5da73a7,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+71c0f1b1-8ae7-40b7-81a1-1dd54b0e9e8f,debb9ef2-6dec-4a51-bf60-8fba41138cf9,ByDriver,OTHER,NA
+3e36a4b5-1aba-4598-b8a6-5b8383ac5d94,a5ee4522-c5f1-4dfb-a2b0-4a0621aac7db,ByDriver,NOT_REACHABLE,Customer not reachable.
+4c5d83b2-25ef-4b3f-8694-a6f8e0bb941c,b9e40277-b7e0-46de-94a1-f8ed50d6395c,ByDriver,OTHER,NA
+NA,4467fa78-445a-4bab-a829-227354f37635,ByUser,NA,NA
+69a758f2-4ac8-4c75-9342-91070cf133dc,60800522-8288-417b-8ca6-9acc5665ffc3,ByDriver,OTHER,NA
+a335ca41-1e44-4e1d-b8cd-f397fd43186d,8dae4635-fb1f-481b-8936-3e33e545f562,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+af1fdb99-072e-4932-8923-bdc54ba485b2,78b0a144-f5be-48a3-82df-2b003d3f9ecb,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+NA,0ca76335-22ec-48e2-a1e8-c6d51150d9a6,ByUser,NA,NA
+a5991cfb-9245-4293-984b-6b0c7524b425,27c8477a-ab9d-41f2-8195-382c2e380d64,ByDriver,NOT_REACHABLE,Customer not reachable.
+c1171f65-2ac8-427a-be7d-d42016afcad8,63b6fb1b-d497-4712-8a08-c2752e6a5700,ByDriver,NOT_REACHABLE,Customer not reachable.
+3f562a2a-30ba-48b0-be29-3cce3fb1c3b3,7953e047-983d-4040-833b-2710ad4e72a3,ByDriver,OTHER,NA
+deac2ce1-9619-4133-a6f9-e1a4d96a5230,8f58ccaf-b2db-4c9a-854b-a2924e914af7,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+da6f4b9e-2eff-4573-8cb6-74375f821996,b8239991-295b-491d-9dcd-5ad090987ae8,ByDriver,OTHER,NA
+ddf6bdf7-f453-4d92-962d-71603b561587,48b01e1a-58a4-4cc0-9cb9-dce1193fe30b,ByDriver,OTHER,NA
+384eee22-4dd4-4aae-9172-80c0c59b2372,351a2072-91be-48ba-b4b7-cab138ee75ce,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+f8adaf30-f500-43ed-b0f8-bc16be91bed0,0de0e2d6-026e-4ce8-ba58-426a0cc71c52,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+e59548a4-ba41-4e92-90ca-cceba6be69ef,54b8cf39-6b08-4bf0-926c-c842e34e8def,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+NA,dee90ad0-887f-4a21-b25e-8516f4a8657d,ByUser,NA,NA
+687a39ad-3d30-43c9-97cb-560d4862b451,bb36da43-21f5-4332-a2e6-a470d2033976,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+7fb65db7-b104-4a80-9f14-61c8e382bda0,008870d2-9bf4-4ad1-977b-db127ed9dd5e,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+NA,98180e1d-8764-4999-a1fb-488d60bb2529,ByUser,NA,NA
+a070c7f7-83d7-4c7d-b94c-bcc106a82e0a,1e17acb5-fd5b-474e-8cdd-6ef72d23b0b4,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+ef5112f6-a810-401d-89a9-66b93caec922,b38bb06c-416d-4da5-9f09-fd8dc831b6c8,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+0c210a54-89a6-4f62-bbb7-0f45f707d291,969e0a20-3f80-49e1-a4de-c81cf02370b5,ByDriver,NOT_REACHABLE,Customer not reachable.
+NA,d2620445-49f0-45a5-8e40-e4f4556de895,ByUser,NA,NA
+NA,3a7ddbfd-c854-4e17-b15d-1dafe97dbd0e,ByUser,NA,NA
+09a279b6-7f8c-47a8-94b2-fb6cff8cec74,2dea481f-f60a-42ab-9d52-2b8908ec799e,ByDriver,EXCESS_LUGGAGE,Excess luggage.
+60909c60-64b4-4be8-814b-6bc80edbcdb6,25340076-c590-4088-95e2-1be78ff04ce5,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+d388356c-8e04-41b3-a5a4-4d6400682b52,cd1dd89a-a84e-4361-9275-fb9314e11720,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+ece3ce47-99d4-4029-8f02-a1cd29000df2,9dfe80aa-e2a6-40bb-8876-668bf2376e7d,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+b79339e7-900a-4d7e-8c97-8feea388b657,9c312f32-ac9a-403a-9de1-fead1ef11cb6,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+77de7238-5b1e-4d24-81cc-0be994f52730,a02c01e4-0db0-4b9d-bfcc-c1f83e7b096e,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+NA,464185db-1fd0-47e5-8b29-c07f7d30c2e2,ByUser,NA,NA
+0924ee7f-e7ef-4a15-9d21-911b31c525a3,e8fc6f30-527e-4b5c-8807-e667b05e0310,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+5416dbdf-216d-4b60-bf5e-28966f6b2f02,33d2d757-72e4-4643-93cc-7abf96c13b70,ByDriver,OTHER,NA
+NA,9b6387bc-c559-4fda-89ba-ee8edc941034,ByUser,NA,NA
+21d1e1c8-27b5-456b-9e30-6c6431b9bd2d,39e40223-2c9d-4ea5-ba43-4fc484ff7f9a,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+b42436c2-bb8e-4619-80f7-54517adbf933,67a1d273-2d71-4ef2-a455-b0cd98ba2437,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+f8adaf30-f500-43ed-b0f8-bc16be91bed0,0d3c218c-8c34-43ab-9195-de2d9ab2b58e,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+NA,ac91a49e-4791-4660-8a50-b4258462b390,ByUser,NA,NA
+286b4cab-ad7e-4ce4-b40f-b8871a4b34c8,0293ea77-01e2-497b-b11d-fb661007e42a,ByDriver,NOT_REACHABLE,Customer not reachable.
+NA,cad8e398-7564-4113-ac9a-2448b34628b7,ByUser,NA,NA
+NA,bab19836-c3d4-4378-b718-33b676688981,ByUser,NA,NA
+67f8aff5-d5ae-4f0e-bf85-178c65ffa037,f5518c01-5a5c-4cfd-baf7-30a8f5710161,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+NA,95eabe37-59aa-40cc-91a4-3da232b13ed3,ByUser,NA,NA
+2942fbeb-6e20-490d-93ba-a2ec4506af14,537f3f95-bae7-40ed-ac9f-1e920c70bbe8,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+NA,e65802c2-66af-4dc7-a889-5e1c896dd199,ByUser,NA,NA
+NA,f80e6bc9-374b-4cea-bba5-5c6ca30997be,ByUser,NA,NA
+NA,715b58c4-1c4d-4aec-967f-56a018dd4faf,ByUser,NA,NA
+f526f63c-f000-432a-9aed-93db646de997,8d256bdd-9f74-4632-bd57-448bde76fb23,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+53d09404-576c-44e4-8a0f-383ba4b22a05,e4527cda-2585-41d1-ab8e-6a7f962043c0,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+f39cb136-4fa2-4218-ae4b-73bfbfc72246,8d5ac80c-a092-4804-869a-68d474964f99,ByDriver,NOT_REACHABLE,Customer not reachable.
+695c7aec-422b-406e-bd42-0a50b217cbe0,0dd5eb72-33bd-4668-a379-278d9ff8871f,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+NA,bce2b53a-fa39-4eb5-b4a8-f83d43e715e9,ByUser,NA,NA
+NA,cee4e5ee-9c61-4c3f-9e3b-39eca6fbbee0,ByUser,NA,NA
+NA,b95ef4f5-1c1e-49d3-b063-0150a8a912d2,ByUser,NA,NA
+bfbe5f68-7994-4f3b-8d11-c88b147ee04b,9d6eb28c-62d2-450a-a414-abfd48e9d22e,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+9506382e-2674-4942-b07c-fdbd37bf63dd,f39124d7-a454-4745-a233-409603ec83d0,ByDriver,COVID_RISK,COVID Risk. Customer not wearing mask/unwell.
+e4311a41-a9e6-4022-a241-bee2ed86e2f7,970e37da-b6e8-491a-b9a6-5171845cfeb4,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+f4b17ea9-bac1-42ec-ad8e-550adb329fc3,5632eb80-2f6f-4e56-9ef1-806df22e01b2,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+29e4085d-2bc6-456a-ab75-7f8a073ec957,08924509-94bf-4f7b-84d7-169461a7f2ff,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+dafb0530-a58b-4303-9f04-3b59657f57bb,6a86af81-3d05-474e-b673-1f32a1a2e0a9,ByDriver,NOT_REACHABLE,Customer not reachable.
+NA,dc29fbbf-5a07-4b97-956d-a5eeef82bb5e,ByUser,NA,NA
+NA,a55931fa-5d43-4f95-bb65-50b819e5d455,ByUser,NA,NA
+fd08d624-4eab-48c5-a0bf-b98ac5ad5c61,b23cf91c-16af-45ab-af04-819c3257df02,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+a5991cfb-9245-4293-984b-6b0c7524b425,dd543047-b864-4419-9aed-262bf2403929,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+d2784cbc-7aa1-436d-a3e9-f0e26e57511a,a71189be-c8e6-404d-9f14-8919be11f539,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+9e188850-c58a-4604-b09f-68396a77c87d,1d11df6f-38fe-4dee-b439-805c1a4d6772,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+NA,b5eec921-7a80-4d8e-9e44-2d342de89d8d,ByUser,NA,NA
+1325dc07-8afb-440b-a285-74a6407af6ad,7c4dabb7-f642-453a-996d-e715ba5af97f,ByDriver,OTHER,NA
+NA,1c9e4b63-3da2-4e22-a95e-0ee92efd1286,ByUser,NA,NA
+NA,8ff53561-b7c7-48ff-9b6b-6129d5e6fae5,ByUser,NA,NA
+fbfaf26b-067f-4456-81a5-705ea8a1b16a,d4825848-fa5e-4dce-a3df-030a874ae47f,ByDriver,NOT_REACHABLE,Customer not reachable.
+NA,dd04d6ca-53d3-4dc2-9a7a-2096afaa3f25,ByUser,NA,NA
+8a3c1eaa-8dc6-4b96-93ca-acc952a43641,1edbdf6d-b611-4785-ade5-f33a85f32046,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+4a78baa5-dd17-4427-9a74-4e1043a2300e,b57094c2-db2e-43e9-8fad-2bac0390e96e,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+d388356c-8e04-41b3-a5a4-4d6400682b52,fdbc46ab-c0f8-4e3f-a718-4bc9b2aa5797,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+NA,aa9d5b2d-7698-4f72-a484-d3cd4b61f642,ByUser,NA,NA
+17cfc86f-edd6-4b48-b31b-5a8af6fa5c54,5ba1acda-cb65-4650-92ed-ed7f5b4cab11,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+578bcb8c-a3e7-4682-bc4a-bc097dfcf21d,7786a60c-c6e7-42ac-8563-567811dfc1da,ByDriver,OTHER,NA
+89066d9d-d197-4913-8992-c3ff0a8d9bb4,6ed83799-a89d-4114-af9e-be95cdabc965,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+c0a7150f-ec50-43a2-b97d-19d3a68d44e6,17b560c2-afd0-491c-a892-9530bb1d6246,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+60821098-e115-477d-ad08-368d478cc407,f6206a65-b069-4cf6-b6a3-6632603ff789,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+c5ca05f3-e16e-47ca-90f3-37dd6fe9622f,359a504b-894a-416c-a9da-e16c87944b0b,ByDriver,NOT_REACHABLE,Customer not reachable.
+NA,c816c3e7-59b3-4788-90c8-76dc868c5696,ByUser,NA,NA
+88a42c11-f4ed-425e-b9b5-b6da682f2997,d3ab8fd4-54b0-4c28-abc1-7c1a7759b29e,ByDriver,NOT_REACHABLE,Customer not reachable.
+NA,7983a2aa-7a7e-4cf8-82a4-affdc025bdb2,ByUser,NA,NA
+NA,825f164b-dc4e-45e9-b942-3d1f514ab2d9,ByUser,NA,NA
+NA,37e85722-2673-41d9-9e5e-d1c782e5f1ea,ByUser,NA,NA
+NA,8b48e0d8-c37c-4d8e-8345-78b74c033e23,ByUser,NA,NA
+NA,8e6c0090-6187-4c25-a5d3-c8dc3dcd1f18,ByUser,NA,NA
+73ac6e2e-277b-4290-845f-300fc764d817,d9fce658-a891-4e13-bad2-0a77b23ac0e6,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+NA,e17859d6-5be4-4f4f-856e-7fcba6ce5354,ByUser,NA,NA
+436271ec-e83f-4d40-9deb-85faf24fbfbb,eaa016d7-03e1-4494-9fb6-d61ba83c6a4d,ByDriver,NOT_REACHABLE,Customer not reachable.
+NA,dfa7af66-ebc8-4182-81e3-18ce6dd88127,ByUser,NA,NA
+de6a3b6d-f3fe-42da-b162-e1b9f8fa1b8f,ee7ef948-8a4e-4f79-a187-31a4a4eb6f7c,ByDriver,NOT_REACHABLE,Customer not reachable.
+f1ad4261-7a93-47eb-a7a7-d5392f8bd3af,c1f5a967-a132-4656-82c9-fbe7d23fab69,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+NA,0f935493-29d1-46a4-8a34-ade3415f6639,ByUser,NA,NA
+62110483-73dd-4484-b7ba-595868ae0aff,a14152e9-ef5f-454d-8ee2-24e6c5276fcb,ByDriver,NOT_REACHABLE,Customer not reachable.
+11d8ed34-bc16-4142-8ae0-5f6119aa15d3,6b0220fe-af1a-4ef4-8ded-ba439ea4dc95,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+NA,166dabb6-3bbd-4d56-85b1-7e293d6d03af,ByUser,NA,NA
+NA,c14826a1-bf70-4504-aed8-432f7f86bf35,ByUser,NA,NA
+NA,26ee7645-4736-445d-9aae-64570361847f,ByUser,NA,NA
+NA,e4420cbf-6de2-46b5-87bd-88a0fa321025,ByUser,NA,NA
+17ae7e7f-01a2-4f4e-9019-cbc58502795a,4d8464b0-12da-4133-a1c3-6fae830a3491,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+NA,120745bf-2fa5-4662-b542-e74105d1cc72,ByUser,NA,NA
+e8d38488-6de5-4d08-b878-2d450164a666,a36c5d9d-7020-416c-8791-ea916224d43f,ByDriver,NOT_REACHABLE,Customer not reachable.
+3c36582e-c4d8-47bd-8952-0ace6e3d04d4,36c264c7-802c-4475-b6e5-a138d49e52cb,ByDriver,EXCESS_LUGGAGE,Excess luggage.
+9bd47332-143b-4f90-8a57-bdcbd041a49c,088d150f-c67b-4359-8838-70bed311218a,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+NA,bee491cd-017a-492d-abfe-abc2d219b6d2,ByUser,NA,NA
+NA,6ae2fbc6-2094-494f-8e43-03b9f8d29b79,ByUser,NA,NA
+NA,9db21a35-31d9-47a3-a682-2c4d0e170c60,ByUser,NA,NA
+cfe5d04d-adb7-4eb9-b422-96de22d5872c,0547970f-fdf2-415c-9f74-f68b72bfef2c,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+45d5b054-29ec-4700-881e-9951d391e3ec,bea97958-02d8-4f55-a566-68d79223ab44,ByDriver,NOT_REACHABLE,Customer not reachable.
+a3c436d1-172f-4601-b87a-c238b780ab92,2d894397-6336-45a3-9b72-e494003a27d6,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+81178b0c-f419-435b-853b-cc24b612ed00,6d8ae211-84fa-4678-b623-7ba33f542eff,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+d7087cc0-aaa3-42ec-9f72-c2246b47b14a,6061f4bc-f852-46f9-b813-31783a8bf575,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+b4c4a2d9-c4a7-4706-a971-36960f8e6579,69a1e478-bbd3-46a6-9c4d-7195420fc61a,ByDriver,EXCESS_LUGGAGE,Excess luggage.
+3115f600-174e-4327-bf88-dd2b93dcfb0d,635702fb-afa8-408a-8703-86acda9c89ea,ByDriver,EXCESS_LUGGAGE,Excess luggage.
+NA,c02bc739-09ee-4e6b-a91a-0de9160740e9,ByUser,NA,NA
+NA,c2016d65-958a-49df-9cda-71c10fb09645,ByUser,NA,NA
+3a17c8c5-b24a-4b85-a7de-474c1f246ff9,cf6141cf-cc3a-4ff0-902c-8309e1238870,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+NA,f0789fb1-9a1c-4122-a961-87e5816ba3fc,ByUser,NA,NA
+a2e9a39e-604d-4914-8cd3-d61a1f5261f2,3d60a634-bef0-4d40-8cce-298573ff2cbb,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+60cfd543-ab76-46f5-85b1-9468658ec112,71c38b35-8c63-4013-a401-252bae9f2866,ByDriver,NOT_REACHABLE,Customer not reachable.
+1b010e42-3908-430c-a9c2-70f1a104cda9,05986d99-8203-4b0a-95bf-67d021c1004a,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+c7aa9277-4100-4a69-ab72-7725a7f69954,623f655e-6f22-49b4-863e-0d1c0caa0661,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+887612fd-43bb-44c2-9ad8-0693f6180da3,1bb3566a-4ded-4ad1-85c7-91b6ed4a8944,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+8ec2f107-ebf3-464d-bf8b-307882d9ab41,0ee493e1-284a-42de-831e-3292a4ec347a,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+df55fe61-097b-449b-bfb2-04df4807d45f,7803853b-5c54-456c-8cba-432108bfd63d,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+0d60d490-4282-433f-917c-d64a07501074,705804d3-abd9-4463-9a14-cc9f88c4f215,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+65bff0a4-8521-48c6-b3b6-079671186d15,7f6eeed0-951d-46ac-b2c4-980b610ed683,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+8ec2f107-ebf3-464d-bf8b-307882d9ab41,71a42071-c871-4c28-b9a5-bd1882f14989,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+ff1284c3-88da-462e-a48c-acd1180e0ebe,42742107-5f60-4ec2-a2e4-162e3d0c5fcd,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+75fb755c-7771-495c-a297-5c323682ea7c,81fc639c-8edd-430c-bf9b-60d8a7374122,ByDriver,OTHER,NA
+3902aa7c-5d40-4979-800e-d1efd0e36ac1,92c8a1dd-c44c-4d87-8da3-ff036907940d,ByDriver,NOT_REACHABLE,Customer not reachable.
+NA,44d977ae-b4b3-44a0-b849-eeda1a92795b,ByUser,NA,NA
+NA,af4ea90e-eb3c-437e-8770-66f041ce3af7,ByUser,NA,NA
+NA,ecb877cf-e71f-4f99-9510-57e932f4bd5e,ByUser,NA,NA
+NA,90d38945-02b3-47ec-aa2b-f41b048a3225,ByUser,NA,NA
+deac2ce1-9619-4133-a6f9-e1a4d96a5230,6132b7bd-ddd5-4e2d-97a7-bdb732a1f2bf,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+NA,9f7d08ec-5b2e-4e2b-b817-edcc7ccadb3a,ByUser,NA,NA
+NA,dfd8a856-140c-4e55-a970-b20965ea1c1f,ByUser,NA,NA
+NA,a9234b45-3b2f-4108-a7be-9ee2c32d451e,ByUser,NA,NA
+NA,f31d02d0-b60d-4663-98c1-4fc5361e296d,ByUser,NA,NA
+f493881a-da67-472c-a906-2816b5eda890,89ceb292-90a8-4009-92a2-e13f400a0ddc,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+8d0c7f76-ad9a-45a7-911e-461197a03e88,b85f83e2-792d-4716-896e-5155e68e4ebc,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+NA,35e80686-0097-4937-84fc-18e9b9ae6954,ByUser,NA,NA
+32660d62-e715-454f-8c57-1347577ee94f,7a132229-9ab7-4ba0-8436-810467198f64,ByDriver,NOT_REACHABLE,Customer not reachable.
+0924ee7f-e7ef-4a15-9d21-911b31c525a3,35dc331d-6a06-4efb-8aa3-9feb73e0355b,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+65993124-398f-43ce-9a5c-a9d98aef3e24,2a29ec3b-e778-4e32-bb0b-8c9ddaa8a32c,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+53586359-9b23-45c4-bf80-6c6ad73545c1,420a6647-fa79-44fb-a8dd-1c969189d95d,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+1b7efee7-3e1f-441b-a0d4-6f30e689fcec,a0451ff2-c867-4f5b-bb43-6e5ec7d7c4ce,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+NA,a0227a70-6778-4ba7-823a-8344ca56c75d,ByUser,NA,NA
+61c82b25-9dd7-4a29-bf24-cd4ecf46a28d,df850672-d5f4-44ea-be8c-5e113c429227,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+NA,bc35b720-89a7-465c-b5f7-575226b6089b,ByUser,NA,NA
+NA,bd2ed917-6ae3-48ff-9dd7-bdcb6338035d,ByUser,NA,NA
+NA,5cf92643-3fcb-4f15-9181-641b97ba72e8,ByUser,NA,NA
+NA,0d07c2aa-2176-4dc2-a393-5f8e06d84c8d,ByUser,NA,NA
+NA,f16a0e93-50bc-4b01-ae9e-992339ae636e,ByUser,NA,NA
+c7aa9277-4100-4a69-ab72-7725a7f69954,65afa553-defe-445c-8001-6d5a5b669902,ByDriver,NOT_REACHABLE,Customer not reachable.
+2c8d035e-2f16-4b14-afef-8178c95f7563,be5e4e4e-50da-417e-a65b-5dc4fe7146fb,ByDriver,NOT_REACHABLE,Customer not reachable.
+NA,2d758bcc-9737-4333-87eb-5c023b7cc46a,ByUser,NA,NA
+NA,1a99b705-c17f-4a0b-bd55-7ec83171469e,ByUser,NA,NA
+ca8c7f20-4aca-424d-bb04-d803bfabea18,1ff7edba-b9ce-4139-a9ff-853d47a1e5e8,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+NA,d8b11858-c2dd-4d86-990f-935d4cfb1469,ByUser,NA,NA
+9a396bda-cda3-4f02-9e54-da8c18291101,5a1ef318-2b22-4020-81e3-c85139bc104a,ByDriver,TOO_MUCH_PASSANGERS,Passenger limit exceeded.
+c748bfd6-b6e0-4105-96e9-f43db0df9b70,00ab0348-46ad-4e0a-b70b-9fdd837c70b7,ByDriver,NOT_REACHABLE,Customer not reachable.
+a5991cfb-9245-4293-984b-6b0c7524b425,8308aa11-4e96-402d-965b-bc51248f1fea,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+NA,5e545df7-b731-4399-8b8e-2b97090e84f4,ByUser,NA,NA
+da6f4b9e-2eff-4573-8cb6-74375f821996,44b786be-2274-465d-bc16-2d24b99c9748,ByDriver,OTHER,NA
+be32ee9d-2f8d-48a1-83b2-e8150cecd37a,60a9c32c-14e2-4fed-88bb-5721436fd901,ByDriver,OTHER,NA
+45429ed2-ee1c-40a3-af4a-f03cadfeec58,53aabc72-d83a-417b-8062-eb8a09a4c5a1,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+92a87827-519d-4ef7-8859-6273c310c641,123e75c7-3b9d-4aef-a77e-d8f113747ed6,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+d2784cbc-7aa1-436d-a3e9-f0e26e57511a,a71189be-c8e6-404d-9f14-8919be11f539,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+7caba452-dd54-4634-99e1-53091fd6cc8f,391a5028-0ae9-4150-a7ee-dcbeb2d90cac,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+NA,799293b2-4610-4471-af4b-f478cec01ea7,ByUser,NA,NA
+fd130c92-4e7a-4f0f-bbf7-9c7c6e28987f,31820ad6-58a1-43aa-89d4-33aa6a604c62,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+NA,6fadf754-d27a-4e57-867a-c6aad8becdfe,ByUser,NA,NA
+956aa5d1-41ab-4886-9409-74bb922ad194,8c9a509f-505a-4b4c-90bd-116cd7303b65,ByDriver,NOT_REACHABLE,Customer not reachable.
+NA,5f7b012b-6e09-4b87-8b15-f6ca34ef44d9,ByUser,NA,NA
+da3d2ecb-605c-4e1a-bf7a-9885f79a5ceb,3e9e1ee7-acea-4038-94c3-e43f1a363889,ByDriver,OTHER,NA
+45429ed2-ee1c-40a3-af4a-f03cadfeec58,06f091fa-7c36-45ee-a94f-f5f0e6f27758,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+NA,96980032-025c-4669-ae3d-a056dc9961a5,ByUser,NA,NA
+5d2ebe71-9cc4-4d52-b9ec-1109fa823598,8b5beb58-8ffa-4ebc-9737-3bd4428bc79d,ByDriver,TOO_MUCH_PASSANGERS,Passenger limit exceeded.
+NA,716d3b73-047d-46d0-a22b-b3cb942f5722,ByUser,NA,NA
+6ea38687-9820-48ca-ba35-2abee87f445a,c14b60f0-09ac-4d92-b94a-bbf26c972b9a,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+b3856f69-72ec-4b74-b853-ca99e2c0cc0e,1e8da5e1-285c-49f5-b08f-87025b366b14,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+d6054c8e-63e8-4488-aebb-ee167b923823,1728c0e6-a8ab-460d-b500-2b7a6fe0f3e4,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+c1171f65-2ac8-427a-be7d-d42016afcad8,63b6fb1b-d497-4712-8a08-c2752e6a5700,ByDriver,NOT_REACHABLE,Customer not reachable.
+ddcbb7c5-02e4-4cf9-8ece-0fe52c4951bf,a9c2f91a-cf2d-49a4-ad23-bdfb5228734d,ByDriver,NOT_REACHABLE,Customer not reachable.
+NA,b4708ee9-132b-4cd6-9723-1a3400044dd9,ByUser,NA,NA
+ee6d615f-4671-463d-a70d-595281b5c88b,6ced478c-dc83-4495-8491-6b4ce480f930,ByDriver,NOT_REACHABLE,Customer not reachable.
+c1171f65-2ac8-427a-be7d-d42016afcad8,63b6fb1b-d497-4712-8a08-c2752e6a5700,ByDriver,NOT_REACHABLE,Customer not reachable.
+541a4644-6bdc-4f38-8c4d-8003e84b0f91,e24aabcf-c709-4228-b093-99178f8e9335,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+131eb52d-0e23-4489-ab21-a91f83028fc4,a49bbd46-583c-42bc-b28b-1ba1e1792ad1,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+21770651-4d39-4283-bdd0-c049c75d758c,d3c66eb1-4dac-4cd7-9881-eb162e511963,ByDriver,NOT_REACHABLE,Customer not reachable.
+NA,7a94af2f-55c8-425b-860c-e297bf6d2e83,ByUser,NA,NA
+NA,1451d8a5-96bf-41d1-90a7-ae18015002ba,ByUser,NA,NA
+NA,18d5eda2-67ec-48f3-b449-127879c931f4,ByUser,NA,NA
+NA,7b5abf77-357a-435a-b9ba-1ddd3ae7344e,ByUser,NA,NA
+NA,fb5dbcc1-f837-46c2-9e38-1097de23119d,ByUser,NA,NA
+3cd7ab31-7750-4665-a889-d5b66174e239,42ffa582-b3db-4e25-99ec-e69fdf5a2899,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+0cf7cbd4-bdf9-47ce-8087-a099dd1ba413,fe25dfbf-c1aa-4079-a9c6-34672d0286d6,ByDriver,NOT_REACHABLE,Customer not reachable.
+2c5334ec-5e88-4fe4-984b-73acc48f8f88,75943e03-32df-4439-8b89-8815599b9739,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+bdc5ed37-e6a4-4ae7-93a8-f8175883b7a5,b61ebdd9-6d7c-4965-a42e-57dbee737bd5,ByDriver,NOT_REACHABLE,Customer not reachable.
+17fa635c-6469-460d-8c4a-fbad508151c8,d3af67ac-5a91-4c6d-8851-bb753bb1452e,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+49994c56-92da-40b7-aacd-807f9393d148,ac30368f-7335-46ee-ac67-03ddcb95b09e,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+8d420c2f-73c2-438d-a086-d0d3c00b8f14,611ce621-9498-428c-a7c5-f1c9948a156b,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+NA,6212d46a-781e-4184-90ce-2d7d1be9049c,ByUser,NA,NA
+05945b73-309f-48e4-be81-a2f19aa2c7de,7ffcd722-02ea-468d-8458-e537bdb63a62,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+NA,dd5109c6-e438-4f35-951a-bd4feb57a794,ByUser,NA,NA
+44a125b3-cf7d-415f-91b2-b4c2e7a5d2f5,cd84db48-643f-4585-9a06-4dc4fe2e4fe8,ByDriver,OTHER,NA
+180c6bdf-a117-4054-8c69-eaec0056ce55,08eea443-5077-44a8-89f6-54954c64fc2e,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+NA,7c1a1587-d06f-4680-97c7-6e3564a3008a,ByUser,NA,NA
+NA,3d8f4a1b-b282-43da-9e62-9a559e28b10a,ByUser,NA,NA
+7e8b5fe7-42c6-43fa-9627-a2e6ef8a95fc,bc4af11f-e29c-4dc1-a471-ba18c2e32a4e,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+0924ee7f-e7ef-4a15-9d21-911b31c525a3,e8fc6f30-527e-4b5c-8807-e667b05e0310,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+NA,25d23bfc-41be-4e56-86d6-2931cc1ae5cb,ByUser,NA,NA
+394de402-c9ce-48cb-bc4f-c579a5b12e88,08ba9374-3a6f-4211-bc74-257ba0b74d16,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+de71de58-3360-4ca4-8cbe-0f1d86658c8a,d5f307b5-a9e3-4529-a9f0-744fb58aa9f3,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+NA,f20fb7bc-265b-4acf-b573-8efa3a9ed8d6,ByUser,NA,NA
+NA,2b4036fd-8263-4e2a-83d0-1de17744d0fe,ByUser,NA,NA
+NA,455dd0e9-59b7-4d9b-80e4-a78864f81ea8,ByUser,NA,NA
+4702885c-8679-4b55-95e9-21f70928ccd2,b6a263b7-9f26-4fab-b816-2cf4143b13e6,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+93d3d3d2-7084-4502-98c3-39e8d4413d70,50f40740-40e9-49ea-9eca-91b8938bda2d,ByDriver,EXCESS_LUGGAGE,Excess luggage.
+NA,6406e69c-72da-4c3b-aa9a-0ab0849bc645,ByUser,NA,NA
+b4b6cd4e-1898-4aa4-bdb4-64b4ff40e2b6,3a74db3c-6968-4586-ae46-3a27186a934d,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+NA,3cca9082-04e5-4f9d-8d87-7da3d71b2614,ByUser,NA,NA
+fc21665d-c864-4b63-98d3-c8ee77494a0e,55a631a6-3dd8-48ce-8d87-a03bbc541ba4,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+NA,8d58774b-226d-48d8-8aa7-9272a8202a7f,ByUser,NA,NA
+fc21665d-c864-4b63-98d3-c8ee77494a0e,55a631a6-3dd8-48ce-8d87-a03bbc541ba4,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+NA,9370deb1-0a43-41a1-98d7-11b129e8a0cc,ByUser,NA,NA
+aef1bcf5-00ee-4c51-ad7d-dec9a66781db,dedbab91-408f-41ad-8955-c6f90702fe43,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+NA,ace1d28c-78d8-4dd1-ba54-d00cd938b98b,ByUser,NA,NA
+81cb445b-56f0-49de-be08-b706a77e3815,13ec1c67-941b-4196-86eb-0d4a87234a23,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+NA,7439b46b-4019-4e33-b811-272cd9cc6de8,ByUser,NA,NA
+c7ec638c-4baa-46c2-96a8-19e7b9814b4b,2c34d6b0-72cc-4d8b-a93d-c2578701c4a0,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+NA,4fc8e49a-8fff-4d0d-ba0c-f9495db150f3,ByUser,NA,NA
+NA,903f6487-cd15-4e17-af96-3d2716f643f7,ByUser,NA,NA
+bc22cf41-0380-40a5-9c0a-b46209dd405d,7636758f-eec4-49c2-b91b-c4c33cada146,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+afa1f020-f37b-4bb9-b73b-34475759f656,9a22d18b-4a83-41de-bc0e-423ff84de45a,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+f06c8234-dabf-4724-99d8-9432af182443,58c23cdb-92db-4fdf-b4b4-8a7573eafb57,ByDriver,NOT_REACHABLE,Customer not reachable.
+NA,414ddddf-c7b2-485e-8374-9140763b43cb,ByUser,NA,NA
+1e35c5ac-615b-4cbe-9e91-cf6346995ddb,72225823-0491-407e-89f6-4bf103cb445e,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+3484ab29-2c95-435c-bbf8-129fb253b80a,4c415ba1-5d2e-4c1a-ab8d-e28ba8c9f3d1,ByDriver,NOT_REACHABLE,Customer not reachable.
+NA,e622df99-ef16-4e57-8534-ba6590cc9c71,ByUser,NA,NA
+da6f4b9e-2eff-4573-8cb6-74375f821996,d4426ab4-34a2-4a5b-8055-b09b66f45751,ByDriver,OTHER,NA
+NA,481d4544-8d5e-4534-8713-c89a139c6827,ByUser,NA,NA
+2c3520b3-3995-4ae9-a4a0-f53a1dce99d4,9cea93d3-5b41-4a36-854e-9e17fc97eb9f,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+644a1dec-9b2e-4e62-9d0e-5f585f13fce9,0514cb7a-1098-4c8f-b552-456470963641,ByDriver,TOO_MUCH_PASSANGERS,Passenger limit exceeded.
+fd08d624-4eab-48c5-a0bf-b98ac5ad5c61,f65d38f5-5770-4828-bf83-389c9a1b75ab,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+NA,0502918a-1a4a-4b9d-a075-576622827d9f,ByUser,NA,NA
+NA,1facb477-cb28-4fb7-b0ce-3e385e982fbe,ByUser,NA,NA
+b149a1e6-7eb5-4eb1-af90-866e83ae5701,582fc3f1-4c0e-4ca4-859c-9d9418ab43d0,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+NA,90e066b8-bfd3-4045-b938-b05dcdf5c074,ByUser,NA,NA
+e0c31909-488e-4b5d-8c94-2100c5af871f,08171bfe-e239-4787-9427-e83bcabf9a45,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+NA,b0e74fd3-3913-490d-b513-9c8c7502d89a,ByUser,NA,NA
+28813486-2520-4c42-986a-410cf18a76ff,6824bb04-1506-433a-8f37-6126a879cf64,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+e5eb4a8b-ca5d-47f2-9ce0-6f7eab1555c1,185b3d4a-bf1e-452b-ae37-cf264d7d5431,ByDriver,NOT_REACHABLE,Customer not reachable.
+882c0718-041e-4717-b7f0-f9a935eb3ae6,f5c348a3-8544-4bd2-9680-81f92fe4de07,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+b313640e-bdc6-43b9-8b9d-9ae3b7cc0680,c6b812c0-a755-4aa5-bf40-be722f836184,ByDriver,NOT_REACHABLE,Customer not reachable.
+61f0b9dc-110a-4a65-b7bd-6496aaa71dd3,f4a9b847-3e4f-4cc7-a430-5be5b4a92e47,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+f84ac5b2-f4f5-4dcc-9296-68307380308f,81e95552-4fc2-4feb-bc90-b45f22f948c2,ByDriver,NOT_REACHABLE,Customer not reachable.
+NA,3d945d8d-a827-400e-8e12-0348c7ab28a8,ByUser,NA,NA
+4723e96f-d539-47e6-a198-3d2a1a2419db,3351408c-f58c-4250-9a28-225cb911c904,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+0116e320-0e9c-48ba-b504-44dd6a8da5a0,780510fb-c2f9-4346-85a2-89e20052aa29,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+NA,dbe9c337-6817-4050-81c4-a12506345276,ByUser,NA,NA
+NA,b9a503d2-d823-429c-95d0-eeb099a8eb5c,ByUser,NA,NA
+d54a8c80-a936-482e-8205-9c102f4d5050,80c87acc-eb7b-45bc-9a6a-dabc4350f0e2,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+NA,0efbad46-247a-48cc-bb3d-40f6d997701f,ByUser,NA,NA
+NA,3ab6d411-1a35-49a9-baa4-89d3a3a82894,ByUser,NA,NA
+b1f92926-d047-4635-a336-dee7a65a06ef,e0da064c-132d-4413-b270-ac602ee58bd9,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+1e66670d-a47e-46ec-9c96-04ffe99851fc,f2c1f99a-5824-4c53-bb53-a7bd1858cc57,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+1e66670d-a47e-46ec-9c96-04ffe99851fc,e5350feb-e59d-4cf3-8f84-cb16bb8020c7,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+NA,b72b5d92-dd91-4feb-ade1-777cbf14821e,ByUser,NA,NA
+NA,cf6986c3-6c7c-43ca-bcb9-669a9e445f67,ByUser,NA,NA
+NA,74fd561e-b536-439b-a9ba-adebceac49df,ByUser,NA,NA
+037102cd-f6e2-4961-a57d-f140b82c43df,699250f9-93b9-45b3-882d-dee887ada329,ByDriver,NOT_REACHABLE,Customer not reachable.
+e5eb4a8b-ca5d-47f2-9ce0-6f7eab1555c1,3d05d459-95bc-4e64-8197-7ade4836f7e6,ByDriver,NOT_REACHABLE,Customer not reachable.
+NA,57d09fcc-54c6-4f19-8b79-0493bfc526d1,ByUser,NA,NA
+NA,bc6b28ea-f239-4634-904e-47d91ce74577,ByUser,NA,NA
+76b0ed0c-7a99-4d69-882b-23b7cc476b26,36efc166-e3d1-430a-9aad-e0fe34730810,ByDriver,NOT_REACHABLE,Customer not reachable.
+NA,bba04397-6415-4aca-a155-fc2f9b26cb19,ByUser,NA,NA
+d5d160f5-3f82-42e0-812b-5213376aadea,41f83a57-3fae-40f1-a25c-753a8feb5c63,ByDriver,NOT_REACHABLE,Customer not reachable.
+e59548a4-ba41-4e92-90ca-cceba6be69ef,36b491dc-9384-45d2-ad0f-70bc4b4b318b,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+70e8e9d1-4071-4aa3-83d5-52c6550e70ed,a35ef784-b755-4dfb-b4ef-b1e3db1250ec,ByDriver,EXCESS_LUGGAGE,Excess luggage.
+355a0b30-1b1b-426c-baca-6c37c9abc059,b6ebecb1-362d-420c-8c87-e53117c4659b,ByDriver,NOT_REACHABLE,Customer not reachable.
+NA,3a7b3942-b858-4f3a-a3ca-643dec7e36b7,ByUser,NA,NA
+NA,cfce7193-eaa2-4434-9ace-2f0bcfc1de67,ByUser,NA,NA
+NA,5532c5ad-a7c1-4f2f-ab3c-ba66cb9718b3,ByUser,NA,NA
+c71ad997-e794-40e8-8297-350ccae97641,c8dd2e21-67cb-4250-907f-f5db540dbd92,ByDriver,NOT_REACHABLE,Customer not reachable.
+NA,dc248b80-74bc-4bd1-9919-500157cebd16,ByUser,NA,NA
+071d3bd3-7386-4438-9d22-711571a0e116,6eeb064d-d3f2-4130-a938-eea502462eae,ByDriver,OTHER,NA
+a29a392c-2770-4e71-89df-6eb15b5fdade,25d1fb86-213b-42e9-ba09-36c12eb1cd1e,ByDriver,NOT_REACHABLE,Customer not reachable.
+036df226-7517-4734-9e37-902799054b2f,527eb91e-8aca-4916-9ac3-ede861e128b4,ByDriver,NOT_REACHABLE,Customer not reachable.
+a466bb66-2b78-4471-bea3-e3367338ce6f,85cc6f8c-6998-42f0-acf5-2304fc25a5f6,ByDriver,NOT_REACHABLE,Customer not reachable.
+936e1561-1810-4b14-a4e7-4d1330c995ad,bbaee2c7-34d6-438e-826c-9278b6d3d34d,ByDriver,OTHER,NA
+NA,5b85326a-04c7-46d3-ab36-d13db0bd1f9b,ByUser,NA,NA
+b9976e36-0810-43b9-baa8-9fbbb10c3dc5,2a39a8f5-22f9-45f9-b58a-aa5af6b56320,ByDriver,EXCESS_LUGGAGE,Excess luggage.
+21fb211f-cebf-475b-b0fd-b8333f14a159,2f0b338f-0745-4486-8974-cac56efffbdf,ByDriver,NOT_REACHABLE,Customer not reachable.
+NA,a1f825af-01db-4ad0-a02e-abebeea6eb97,ByUser,NA,NA
+NA,866c630b-efc1-4d08-b9fb-6cd7bac626d3,ByUser,NA,NA
+NA,10af5d4c-8553-4070-a594-1c284d369ac7,ByUser,NA,NA
+NA,0c2116cb-1591-4adc-94ba-8c403f07b60c,ByUser,NA,NA
+b3f05bbf-1a59-49f7-901f-8e53b2d33684,0a4e85ab-e32a-4e93-8fae-3202bc863524,ByDriver,COVID_RISK,COVID Risk. Customer not wearing mask/unwell.
+NA,c4865b47-a64f-4e32-834c-1e60d6f7d6ca,ByUser,NA,NA
+NA,b1dd10fc-6959-4451-8238-ddc9663b56c8,ByUser,NA,NA
+NA,0fb61b24-691a-4385-a6f7-c10b60cb493c,ByUser,NA,NA
+NA,4aa53396-d689-4088-a117-2879253d24a3,ByUser,NA,NA
+6fe79016-9c78-4344-aaff-c4d979aa96d3,6f186648-3a0b-42c6-b616-04c879f5edaf,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+b56e9836-5a83-4801-88cd-ce1b5ea59d8e,709f79ab-7583-4ccc-9da9-6b7abdfd25a0,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+0d6bfa20-6994-4dc8-97f1-dd57dddaac6f,724adf66-e980-48a9-baa1-b35a0a674a2b,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+NA,278ccb47-fc7f-4e44-83e9-1064a3acfa91,ByUser,NA,NA
+NA,126b8299-5351-4b97-8e81-c868b3e98e9f,ByUser,NA,NA
+NA,3340100d-cbd5-448e-84da-5f236fa6a575,ByUser,NA,NA
+b818f5be-7c3c-476d-b746-c498081ce0e3,dbb5c417-1edc-4bbd-ac77-8a70192f1f32,ByDriver,NOT_REACHABLE,Customer not reachable.
+NA,3ebda94c-516f-46ba-b7dd-edf4e24522ed,ByUser,NA,NA
+abeab944-5480-42e8-93f3-8c786a9e69c4,4ab23399-accb-4cc0-bf25-df80d0b33993,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+7a2412e2-31e0-4fa4-965a-64367bfbe358,5f816ed6-3666-46c4-9ac3-ceeb8366be62,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+1f2403f5-e6d2-4b26-9740-a7e8e9f52180,b6e6e707-f71b-4ce8-8107-d5e2e8b4d70f,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+78d5a92e-b926-485a-831c-a8fb8c4953e7,4a903a65-18be-40cd-aa52-1bf2a563c202,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+NA,bcc80979-4fc6-4352-96e8-2bb43fdbb13e,ByUser,NA,NA
+NA,936a6c02-69b6-4383-8762-4b70f5423ca4,ByUser,NA,NA
+92f13248-928a-4ee5-8d10-cbac97bd228a,6066dd4f-fedc-4b94-b029-c825c07b0d57,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+NA,b92081da-5d2e-4ad4-810c-a50a28d7efc9,ByUser,NA,NA
+NA,427a67f5-d582-4436-a7bd-da37439dc448,ByUser,NA,NA
+NA,8ee5aadb-ba14-4a94-b97c-782d5450ba11,ByUser,NA,NA
+0d6bfa20-6994-4dc8-97f1-dd57dddaac6f,724adf66-e980-48a9-baa1-b35a0a674a2b,ByDriver,EXCESS_LUGGAGE,Excess luggage.
+13f00763-2f49-48dc-9ebc-e144afd78e62,f24e8d9a-d01e-40ae-b8a5-7beb15bbffa1,ByDriver,OTHER,bdhd
+NA,06403e9e-21a7-46f4-bc2d-4ba1d097d5c3,ByUser,NA,NA
+NA,e166e838-4f8d-44ec-8bb5-b722cbeb2d5b,ByUser,NA,NA
+9874ac60-8233-4697-bb34-29936dd47989,a26e729a-9822-471c-9378-1d0e218f6f12,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+23a3fb64-51c3-40ab-a7d1-2cbb78c60a08,17db2173-add2-42da-b913-8d2b48e6fb0e,ByDriver,NOT_REACHABLE,Customer not reachable.
+NA,9a916f8d-999c-49ab-8802-cf6de48a6474,ByUser,NA,NA
+NA,d6c3dce2-979f-4d10-8b15-6834befd5b4a,ByUser,NA,NA
+3d3b1a0f-3cd8-42e0-8f39-34a401922d38,04cf0381-7633-4007-b48d-f87da1c2aab9,ByDriver,NOT_REACHABLE,Customer not reachable.
+NA,e0101d67-72ad-4fc9-b770-7b70d04d5566,ByUser,NA,NA
+NA,a36a23bc-3ddc-4b5b-a247-76b40fc24095,ByUser,NA,NA
+NA,451ddad4-0fac-4e60-8918-b9fda1fc61e2,ByUser,NA,NA
+847de290-1e8f-40fc-9311-8ea3ca930092,7b2dc46e-6160-4f99-a547-cae6860f9fac,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+NA,9893a17e-2e2b-4873-ad1a-158fbee63e52,ByUser,NA,NA
+afa1f020-f37b-4bb9-b73b-34475759f656,eb109d85-5fe3-4b46-add0-7ea7dce7f630,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+NA,7a3f4f07-6c98-44ca-891d-6aee042ee297,ByUser,NA,NA
+f30a9170-31f2-415b-a367-a4348253faf2,665166df-577d-470c-9c6b-d3f6d8a10b88,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+75674b48-98b5-4c4d-9fd1-7059cecc417d,79b3d995-eed8-416f-934a-70e462de937b,ByDriver,NOT_REACHABLE,Customer not reachable.
+c11958f0-11b8-4973-a740-4af060092e24,cc2e3f43-f27d-4b29-8ade-74c1d4b94eac,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+NA,c71fd3cd-315b-432f-8a4d-d9b92b5bac8e,ByUser,NA,NA
+f9114d71-c210-4340-b70a-a85c01715c37,d799a79d-6424-497a-840b-98c15ab87d7c,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+139e10e1-c9b8-4cf1-9b6a-45bce247ca95,d090ac33-13c4-4f2f-9bd7-1aa21a52c170,ByDriver,NOT_REACHABLE,Customer not reachable.
+f1ad4261-7a93-47eb-a7a7-d5392f8bd3af,4d7bbe25-3d98-4e7a-a2e6-c6579223aad7,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+NA,df0c8f75-112e-408e-b125-73706d6427aa,ByUser,NA,NA
+b16903a6-9172-45e7-99b0-3158ece2fadb,d6ce1269-9cf2-4995-a482-ddffe4488290,ByDriver,EXCESS_LUGGAGE,Excess luggage.
+598f123d-7655-4d49-9f3a-dd4d4671c5aa,ea8390d1-df19-4883-a641-03a9e24e1a8e,ByDriver,EXCESS_LUGGAGE,Excess luggage.
+NA,0562c264-6093-40c6-aeb6-26c05ed8dff6,ByUser,NA,NA
+91cff9e1-9f07-45ed-b1a1-070f57ae7ba4,40244af4-24ba-4085-8376-e0ba93a415e9,ByDriver,COVID_RISK,COVID Risk. Customer not wearing mask/unwell.
+NA,56666200-75a9-486e-b26a-387d8d97d8eb,ByUser,NA,NA
+75c06d32-a95c-4ddf-9d34-d1b471a55e80,efc13b89-e328-4cef-a07e-b0105eeb697d,ByDriver,NOT_REACHABLE,Customer not reachable.
+NA,be40711c-4c1d-4a36-b245-ae19fb610cc9,ByUser,NA,NA
+NA,81afd13a-6723-4550-b200-db64bae68be9,ByUser,NA,NA
+aaa56837-4130-4d88-98d7-f0366e03a89c,f084d6c4-b4d6-4c08-99f0-c363e3363a7e,ByDriver,NOT_REACHABLE,Customer not reachable.
+ab5ac199-9740-4c10-ad48-2513d38d4828,62d496e9-dbf0-44cd-a5fa-fd922f3a5e96,ByDriver,NOT_REACHABLE,Customer not reachable.
+aed49fbe-540f-4d54-b98a-b988d692ecaf,ed6d60a7-b069-409d-860c-108896f96812,ByDriver,OTHER,NA
+ab5ac199-9740-4c10-ad48-2513d38d4828,62d496e9-dbf0-44cd-a5fa-fd922f3a5e96,ByDriver,NOT_REACHABLE,Customer not reachable.
+4e2686d3-ee6f-4bb7-b356-c7acf2061958,c7d245ee-295f-4368-a46d-9d58afad7da2,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+NA,feb54631-62b9-4f9c-93d2-c799780f6514,ByUser,NA,NA
+d2833780-9542-4389-ae22-cbb4e09c4c3a,b73f5f8b-18d1-4ee0-a1bc-6496c0b7060f,ByDriver,TOO_MUCH_PASSANGERS,Passenger limit exceeded.
+24df31bf-1e81-475c-ae3a-004df5fa472b,62ebd6da-ca35-4aeb-818f-7c127d461776,ByDriver,NOT_REACHABLE,Customer not reachable.
+905eb05a-dace-44cc-8e6e-c6bb0e528480,1c260137-376d-49f6-b253-2a35a1f72a9f,ByDriver,NOT_REACHABLE,Customer not reachable.
+NA,c51d7f94-77b7-4432-8812-60c70638608e,ByUser,NA,NA
+26012937-cdfb-4851-9e34-b93b4f5859d8,2a5b589c-e851-4eb7-962c-449d0b105501,ByDriver,NOT_REACHABLE,Customer not reachable.
+6219e8bb-d564-4793-8f7f-b41aeaa9724b,b3207630-ede2-485f-9034-ce397281f3c6,ByDriver,OTHER,NA
+1325dc07-8afb-440b-a285-74a6407af6ad,49cb647d-34c7-4633-be1c-e9a2844bb90d,ByDriver,OTHER,NA
+NA,a8a64b8b-576b-415f-8ec0-00665a3f1b14,ByUser,NA,NA
+7fc5b8dc-79e9-4c46-aaed-6422b75eae30,673cc01c-b6b7-4219-94ab-6e4e60753628,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+8f97a54c-2d49-47ad-bbd0-858c89f10eb6,6da430c3-c98b-4a26-95fd-26a60401e39f,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+NA,74b1573a-3431-4b0b-8a23-b5ab49e2fe73,ByUser,NA,NA
+NA,339ac6c5-63fd-4274-85d9-c0569818d869,ByUser,NA,NA
+NA,7d6dc098-50b6-41b3-a836-ad791e104f06,ByUser,NA,NA
+9768e11d-86d6-4838-8968-9a70c9f3fd1c,35d57cf3-a4b0-4794-8ec7-1484d2624d61,ByDriver,NOT_REACHABLE,Customer not reachable.
+9f4fcf9b-c460-44a0-b189-96b0817b01e9,1137d5bb-de6a-440a-9311-53c0218bd049,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+NA,555d3baa-8dae-4841-bf74-f6a25ccfcd56,ByUser,NA,NA
+6559730d-aeff-4509-a45e-73d9664464dc,6c02ba7e-c2a2-4b8c-8f92-ce0179787929,ByDriver,NOT_REACHABLE,Customer not reachable.
+NA,0faf9840-bdb1-462e-97f2-14b2e14a98b7,ByUser,NA,NA
+1325dc07-8afb-440b-a285-74a6407af6ad,e2faef86-068a-492d-9c18-3910ca1f4f0f,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+NA,7e8f4e77-6a52-4c35-9dc2-97f6bd3be711,ByUser,NA,NA
+a6f6c9b6-a397-4ada-91fe-9ee41030e2be,6ed66266-3b29-43b6-9a48-3810e827b8d1,ByDriver,TOO_MUCH_PASSANGERS,Passenger limit exceeded.
+2c69a97b-f73d-428e-9b5d-ce22fde2d793,9ed023f1-122b-4509-98c0-353b242295d9,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+NA,3d0e38a0-ad2f-41c5-a4a9-26c47b7246bc,ByUser,NA,NA
+NA,9ac17277-cb98-46ce-8575-958c30b5d5ca,ByUser,NA,NA
+770a8d1e-de6d-4bd1-a558-700f427e7501,9ed466f5-cae3-4984-879f-81522887f5a9,ByDriver,NOT_REACHABLE,Customer not reachable.
+NA,bccdbafb-a01d-490b-bae2-2cdb64859f0c,ByUser,NA,NA
+88f7c405-239e-4403-9c7b-4eaa88caf581,03016649-e2e6-498b-ad7d-2c9ceadf560d,ByDriver,EXCESS_LUGGAGE,Excess luggage.
+2251df8a-fd31-4881-b971-9872191adb38,3b078a6a-a671-4156-b465-8181c0bdd30a,ByDriver,OTHER,NA
+NA,cd4ea28e-960d-4268-b582-8e9fbcd6ed40,ByUser,NA,NA
+9e752796-d07d-4b05-b5d8-61651f00e2f0,64b767de-fa39-47f3-96de-8b34a6d0140d,ByDriver,NOT_REACHABLE,Customer not reachable.
+3bbd52cf-3f5a-46cc-9baa-f716f0406e0a,59eaa395-4a34-454a-b01f-2ea887fd7be3,ByDriver,COVID_RISK,COVID Risk. Customer not wearing mask/unwell.
+a40b3e1a-66ca-41dc-953e-413ab0c00821,995d2728-2abd-434c-873b-6f488b8254d5,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+e94dc9d0-9f25-4d67-b046-e4991b4bc6e4,bb174639-0d26-4527-b36d-97e181b6ffe6,ByDriver,NOT_REACHABLE,Customer not reachable.
+NA,cd8aa878-505e-4468-a892-b34a506a5362,ByUser,NA,NA
+NA,6993c45e-0be9-466d-9ed6-ec02e05c735a,ByUser,NA,NA
+NA,d5eafccd-bb32-4dde-b493-e1c252623594,ByUser,NA,NA
+f84ac5b2-f4f5-4dcc-9296-68307380308f,bb0a53c9-ee0f-4d41-aee8-a9b8776ba116,ByDriver,NOT_REACHABLE,Customer not reachable.
+NA,9c0507ed-0bc8-4c3b-af2c-946323652840,ByUser,NA,NA
+f493881a-da67-472c-a906-2816b5eda890,12a35900-3aab-4536-b02d-a1ab7e0172c9,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+a317dfe2-9341-48a8-9009-b245103da4c8,fceb648e-3684-42cf-af8b-5f70eea2c914,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+fd2865de-bad3-42c2-b2d0-e7d0761ee549,34a0fa10-5c23-49fb-b0b8-8eb9587ebea2,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+b79339e7-900a-4d7e-8c97-8feea388b657,fa9b7f05-277d-4cae-ade6-3005ff744411,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+NA,fb3a62ce-8078-4c0a-8d4c-8b2d381de476,ByUser,NA,NA
+e94dc9d0-9f25-4d67-b046-e4991b4bc6e4,b83d05f0-5d37-488f-9d6b-f6d04511f27c,ByDriver,NOT_REACHABLE,Customer not reachable.
+cc05a6dc-62a2-4c49-9ad2-cbc693e92048,d5da7a45-f468-4cf0-8a63-3ec8b3e0294b,ByDriver,NOT_REACHABLE,Customer not reachable.
+NA,2c901f7d-ae34-4379-a296-1b927453fc1e,ByUser,NA,NA
+5630b836-db97-4927-9514-5731ffc67985,49d888af-bdaa-4562-8de7-c64091b321e6,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+684ad450-607c-4b32-bb28-10663610ee3e,a6953cf4-9317-4093-9e96-c9a7b86c432f,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+968c59e7-ee9e-44d4-947b-d653f1e07f9e,11eb43fa-7909-40a8-961b-4b0203b2a666,ByDriver,EXCESS_LUGGAGE,Excess luggage.
+ff00beaf-db12-4f3b-a362-ee6f40776180,b454842c-bae2-4305-b20d-a409b60e7902,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+NA,5df2b472-ad8c-4f65-b27b-0ed3fc8cc172,ByUser,NA,NA
+NA,d2ea6e49-ce7a-4560-8b2b-402d77ecdb97,ByUser,NA,NA
+dc9bc56f-8f11-4847-96fc-eea0e381024c,899689a3-2f69-4b87-a1f8-54c6d969d88f,ByDriver,NOT_REACHABLE,Customer not reachable.
+2b503cce-9fe7-48b0-b2fc-4a644a04f30d,5020f7eb-f041-4502-9f17-edd7a6bb4824,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+1f25fb8c-6b9a-4fbf-9e0e-729616d5e974,349828a8-055d-46dd-ad94-f3b6733aa9e8,ByDriver,OTHER,NA
+NA,8fb8a255-6104-40b4-bb33-c8e39106dfe7,ByUser,NA,NA
+NA,59fff47e-480a-4360-863c-ea6f8fe18651,ByUser,NA,NA
+NA,4af715c4-0bb1-4f30-9c2d-1ebf7c130c39,ByUser,NA,NA
+NA,621e142f-00e7-4255-b568-72632c97f7a0,ByUser,NA,NA
+b1446311-5096-48a5-be51-47cc4f4cd544,da97e960-528e-4bf5-bfcb-b18c49315a9f,ByDriver,NOT_REACHABLE,Customer not reachable.
+NA,8ca59634-9eaf-4231-8bad-3b717add0c20,ByUser,NA,NA
+09959d9e-4600-47fa-946c-c557a39e616d,2e72afd4-c918-42f1-b30c-8905e25bae80,ByDriver,NOT_REACHABLE,Customer not reachable.
+NA,3b591013-53cc-4591-8211-6e85d51d35e5,ByUser,NA,NA
+NA,b338eef9-2305-4408-89de-4148afea4790,ByUser,NA,NA
+4e13db6e-b92b-4cd8-b7aa-89ba45fdb919,40bbcef6-42dd-4fc8-976a-556c4e98af34,ByDriver,COVID_RISK,COVID Risk. Customer not wearing mask/unwell.
+NA,8257263c-1709-4ac3-90cc-bad4fa525334,ByUser,NA,NA
+NA,2d7544d4-c1e6-40d5-b3f1-79b9d678ab02,ByUser,NA,NA
+NA,956fdf4b-5504-4d62-882f-ead7029138c4,ByUser,NA,NA
+NA,8ddd6356-df9c-4cb3-bef9-cce7d7ab9c37,ByUser,NA,NA
+cc2e9a81-f571-4d89-a767-f2c3b2809e85,832f47b5-e402-4d79-b105-690319514ba4,ByDriver,NOT_REACHABLE,Customer not reachable.
+NA,25f3d6ea-8823-4964-b96e-5b53c1014621,ByUser,NA,NA
+d8ffd85d-c516-46ba-bcc1-4924dbe0f0f9,e0653058-82ce-489f-8c64-fb1c41aebfdd,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+11ccadac-c56d-4263-af74-499ba1ee4ba2,b4e15454-8445-4567-9bff-73dfe5c881ad,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+11ccadac-c56d-4263-af74-499ba1ee4ba2,da33c603-8829-451d-9d75-4443cf7fc3aa,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+b3de3f3b-ca65-4fd1-938a-56ff750c75a2,9f2aa109-d3b6-4525-bf45-0ddc51139454,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+NA,8fd82dc5-ed98-4a81-b92e-8d07c17004c1,ByUser,NA,NA
+NA,b7376a2a-a667-424e-8f35-07faec42030e,ByUser,NA,NA
+NA,c12a1d13-470b-45c4-b43b-4e1c0066c15c,ByUser,NA,NA
+1b159b45-2f91-47b0-86ba-cb4e68f67734,dc5bde2b-de45-4215-8c70-a4120dd6444a,ByDriver,NOT_REACHABLE,Customer not reachable.
+NA,f923f9e8-ca33-4b0f-8aac-ea209f58722f,ByUser,NA,NA
+NA,73bdb602-1b21-4286-b8f2-ab3edf639cb5,ByUser,NA,NA
+1be0335d-1f48-4409-a055-2c4a341c92a5,80d505cf-ebb5-4ac7-8ad6-54299c6dee39,ByDriver,EXCESS_LUGGAGE,Excess luggage.
+NA,61be171d-1f63-468b-9f13-4a7737056d5f,ByUser,NA,NA
+NA,8a885a06-7201-4adc-98be-fea865cfcb34,ByUser,NA,NA
+aed49fbe-540f-4d54-b98a-b988d692ecaf,d63ce51c-53ab-4847-b73a-ed803187d49b,ByDriver,OTHER,gjjv
+NA,9431b793-5e11-4af2-b0cf-6a4ed5b04500,ByUser,NA,NA
+cf6d1833-9f11-4aac-a2e1-27f8552a150e,514b5036-b831-448b-ba21-413d8ef8469f,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+NA,26afdac5-2741-490e-bcea-5cd4bdbdb72e,ByUser,NA,NA
+NA,2ce1aac1-e08b-42ea-817a-e3e8b00c2d74,ByUser,NA,NA
+9d46d62b-b1eb-42b4-b6e7-4fc0f74904a7,be32d48d-632e-4b44-b814-016bf1095194,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+NA,e1632b77-5fa2-45af-8211-f258eab3d127,ByUser,NA,NA
+870d8db9-b1eb-470d-877b-775ea8739565,f1d94c41-aba6-412e-b97c-2e332207d81f,ByDriver,NOT_REACHABLE,Customer not reachable.
+NA,ac305616-c188-4f1d-a856-1fcc7ad64f3b,ByUser,NA,NA
+NA,3be19a02-6c1b-4b89-90da-8cdd0e6e4da4,ByUser,NA,NA
+63991ac3-d93b-44c1-b9d7-6f25e30f41fd,7243122c-e005-4bb5-af04-2dc5b11e97a3,ByDriver,NOT_REACHABLE,Customer not reachable.
+NA,e7ba44d8-290a-4c5e-b000-16b452a29fa7,ByUser,NA,NA
+c19fda08-e782-48ab-bb58-ca6ca4922e02,2b541b9e-c644-423f-9383-f0ed909e9d53,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+f1c291f0-70f7-444e-9b68-6e2e1c3b2219,69ddbdf0-5508-499f-b4c8-631f4cf09467,ByDriver,NOT_REACHABLE,Customer not reachable.
+d02bb463-64ba-461f-ad32-03f1f264dead,dee81823-7456-4554-9849-e47671c383a8,ByDriver,COVID_RISK,COVID Risk. Customer not wearing mask/unwell.
+62ae5487-c046-46e7-bf0e-ecbe81773999,84806f4a-2c78-4dcd-baf2-e6345b926de2,ByDriver,NOT_REACHABLE,Customer not reachable.
+f1c291f0-70f7-444e-9b68-6e2e1c3b2219,69ddbdf0-5508-499f-b4c8-631f4cf09467,ByDriver,COVID_RISK,COVID Risk. Customer not wearing mask/unwell.
+a27f605d-1624-4062-beee-de4370772cd8,da5f5ed3-0948-4fd6-9fd9-e269a9e0be46,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+b1371594-1dcf-4af5-96ef-38a47489088e,4430e145-7e93-4313-aaef-2a3d97f26460,ByDriver,NOT_REACHABLE,Customer not reachable.
+792480bc-ae8e-4f09-b3d5-aa00fe377312,9d2bc72f-72c1-4578-aa8c-e608701b0059,ByDriver,EXCESS_LUGGAGE,Excess luggage.
+603dfc20-e86f-4373-92b7-db601ec79bf9,e99ade3e-f38d-43d8-a037-269d3afd040e,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+3e895819-5467-41ad-bca7-3ed07b22ee85,37c7a8e1-388e-49f0-8c0b-5b108021dfde,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+NA,f3582d1a-b960-43b4-b8e0-dd38dfcfff0c,ByUser,NA,NA
+c6dff387-4fa1-4fc9-9d02-27ddf75c3525,f3c2f10b-fc2b-41d8-8cee-8e8b4a3a5801,ByDriver,OTHER,long pickup
+NA,3d78c2bf-8e0c-4336-a844-f0eb2eabc87d,ByUser,NA,NA
+c6286c43-7c5b-4a99-bd8e-e5f65d1f0001,185959cd-221c-4a16-b46a-15624bba9e51,ByDriver,EXCESS_LUGGAGE,Excess luggage.
+NA,a1a4a8aa-e94c-4f0c-b6fe-8cebdfb7b972,ByUser,NA,NA
+280bc8c3-512c-4dbc-8e83-5f3c8756391b,64e49262-1479-4e03-aa47-34ece2434be5,ByDriver,NOT_REACHABLE,Customer not reachable.
+NA,4277f2e3-c5f4-4617-a865-d440dedb197a,ByUser,NA,NA
+NA,92bfe643-ae0a-4ec4-87ad-27fea472a408,ByUser,NA,NA
+NA,e38af33e-f58f-4291-a590-9a4ab5458a0d,ByUser,NA,NA
+a2cc49fd-dc66-4508-a459-df722c48f8dc,afea2ba2-a120-427a-bca6-79c958a99470,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+NA,6782c01b-e364-4837-8665-6c8a72008e50,ByUser,NA,NA
+NA,166232b5-3524-493d-a0eb-92ebf44f3a5b,ByUser,NA,NA
+b3137096-6ea4-4cd1-9575-5daa687ef6a0,7892a9ec-f829-478f-a54b-fb5b3cfed2c1,ByDriver,NOT_REACHABLE,Customer not reachable.
+NA,b33c4be6-acd1-4ee4-a610-7a0d63962848,ByUser,NA,NA
+cb0ed668-5680-423d-af00-ddcbf5c6669e,fa5d3b2c-0951-4bf6-9e78-b24eae7e3b51,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+NA,47e62821-6649-4fb3-88c1-1c95e9927da8,ByUser,NA,NA
+4bd90ccc-61a5-4059-ae4c-b5acea50221c,278dfa56-74d6-427a-b8f9-f5c43d1e9076,ByDriver,NOT_REACHABLE,Customer not reachable.
+NA,9a90a62f-a2f6-4a1b-8882-ffb74a45d601,ByUser,NA,NA
+c39f42b5-ae37-4ce0-9a3f-595f60ac9892,b2e40ec1-8e31-40e5-97c7-19610e6775d8,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+d6f723aa-a2cc-497a-9ced-2ac32591e3cd,37e94e3e-a2c3-4c7c-81f9-3e9ff1b7934c,ByDriver,NOT_REACHABLE,Customer not reachable.
+NA,ba087fdd-e1c2-4470-9c2d-f8b5a97c0ec6,ByUser,NA,NA
+9ea4a043-0b00-48ea-a784-f47a9cb43e91,e6671d8a-bd36-4a77-be69-12442d57fbc1,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+NA,1803d411-26b8-4d81-b611-7b99d99c64c2,ByUser,NA,NA
+557f73b6-85ad-46bc-a41e-d1410451cae7,f186ac63-0fba-4903-8de9-dea6e850e30c,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+NA,38d0e256-bd1d-44f3-adb0-7d98244d9aa7,ByUser,NA,NA
+NA,1f5d6064-c28a-43f6-8994-bcbf5bd78c34,ByUser,NA,NA
+NA,063648ea-5ff8-4c7b-82a6-c6409e6126a3,ByUser,NA,NA
+NA,7d268bde-ca63-4d35-8c2a-461bbcdc4186,ByUser,NA,NA
+0020b0c9-8903-43a9-947e-2ff48afeba35,1741d346-7ba5-4e48-826a-6f4819d2c6a0,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+f5334181-1fee-4bc8-8e0d-8d541c6dec65,c73b2d44-97b5-4c0f-8e4d-054a765cc269,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+90f0fc95-c499-4e47-8775-408fa4437b83,11bfdff0-f191-40ae-bee4-d49a8bf61f0b,ByDriver,TOO_MUCH_PASSANGERS,Passenger limit exceeded.
+NA,4a5f0ae3-a4d9-494d-811a-a0238e1c0c7d,ByUser,NA,NA
+NA,d93dc94e-8cff-4db4-a65a-003249b2bf16,ByUser,NA,NA
+NA,1b79af3b-aa1f-43c4-adb7-e147315e44c5,ByUser,NA,NA
+NA,04608d59-9158-4efb-b535-e1c5e6fcc104,ByUser,NA,NA
+f4dab6c7-d3b7-40c6-8370-5e654f369805,1f8a3f85-3da0-432f-ae43-7d83b5bcfe74,ByDriver,NOT_REACHABLE,Customer not reachable.
+c8a23999-8907-4dd0-ae6b-ae30295c8514,62021a0f-eec6-4e3e-ba9e-195ed46d74bc,ByDriver,NOT_REACHABLE,Customer not reachable.
+f493881a-da67-472c-a906-2816b5eda890,3ca71238-1471-4d5a-acf8-a284f74a7093,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+3be12094-0376-42df-91ef-23520e779f40,f72072aa-f400-48cf-9848-1ddd7fcf6403,ByDriver,NOT_REACHABLE,Customer not reachable.
+b6ce70b8-d43c-4318-932b-6f24d20291d1,1eb22a10-3d39-48a2-bfd6-427ce14325ac,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+NA,5657103e-9a9e-4fd8-8670-1f004c091954,ByUser,NA,NA
+04d858c4-e3e1-4152-bd4e-b4b17918ef19,02b45353-ea54-4bdb-a206-5ead45698a1f,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+0741eb92-e19f-4d52-8208-bef3006d990b,522db76d-0ea5-4115-918b-2275d5ac20b3,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+b36af548-ca21-467f-b57c-668a8519d8dc,ad7d655d-9934-4a04-a651-13f0ce3c86ff,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+38d0c3bd-5b00-437f-a8d0-5d7c18f083ef,e93240cc-c54d-4e6d-9e8c-78e65c3407d3,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+NA,a3ef35c1-5ae9-425b-bf2d-5b28f9f16e98,ByUser,NA,NA
+NA,50c62c24-810f-4159-9a47-813c7486b510,ByUser,NA,NA
+c510335e-d376-43bd-890f-617af1e04032,797cbf4a-92a3-4264-85df-ce27882a6425,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+32ab1d17-2c9e-41ab-9e7b-bf0a0b4f4bf1,45cc33c2-82f4-43c3-bedf-f46010b36924,ByDriver,NOT_REACHABLE,Customer not reachable.
+2c8d035e-2f16-4b14-afef-8178c95f7563,3658b117-a828-4ca5-b9dd-d731331c441a,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+NA,dd4bbb50-1b49-424d-b353-8f3399f3df23,ByUser,NA,NA
+c5bc0d8e-7a31-4d34-861c-5d936ff3d606,776652d1-7362-45e5-adbe-36bb061c7c80,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+NA,43699e5b-5f50-4222-956f-685d4c1d70bd,ByUser,NA,NA
+NA,c1fbb468-84ed-41ae-8c97-c4b72c1ab227,ByUser,NA,NA
+NA,e4e43594-4a96-49b8-9726-3423d63a7762,ByUser,NA,NA
+eaefe1a7-c0bb-4273-b9ef-0a76ae0e2b58,1551858c-b7b7-4f33-b416-7645d8242c2b,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+195003d9-0202-4d78-bbfc-cee05f7b4509,3139fdc7-6fc3-4482-9e29-211a4c8cf133,ByDriver,OTHER,NA
+NA,4c09b06d-eb61-4074-83d0-b7f8f720e27f,ByUser,NA,NA
+NA,6920ee25-7c08-4563-a9f2-83988dfc0982,ByUser,NA,NA
+6466ccda-5523-498e-b0fd-6585f656113c,973f54e0-a6b9-47ae-a5cb-f0fdb825d353,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+NA,5afb7455-8892-4126-b95d-939c32a6be6b,ByUser,NA,NA
+cbf97b8a-b442-4ca9-a624-4395fab32417,fa6ae148-a5f5-4f2f-b85c-d4b45e4f8def,ByDriver,ACCEPTED_BY_MISSTAKE,Accepted by mistake.
+b72c1203-06dd-4eee-bf13-7c4dc8159060,fce16968-813b-4e2c-a39f-991ead978de9,ByDriver,VEHICLE_ISSUE,Vehicle issue.
+NA,10a5885e-a1d6-43c0-96d6-b3cc352a7339,ByUser,NA,NA
+ff4badb5-6a7d-4147-a664-74ba6b6efafb,3c79a2e6-ef04-4d8b-a51d-1a0db2a90c21,ByDriver,NOT_REACHABLE,Customer not reachable.
+NA,670c3125-1db7-433e-babd-3ca209622fc0,ByUser,NA,NA
+NA,82e6bb36-31ab-468c-b653-84fafd68ba04,ByUser,NA,NA
+NA,5c1e2315-23fa-4814-b032-f4e05aead2b8,ByUser,NA,NA
+NA,0684ce9b-e3b9-491d-a50c-dfdcbcaaf8a8,ByUser,NA,NA
+NA,1ac16532-bb46-4d40-9cbc-3c84e4cfe2c2,ByUser,NA,NA
+c643aa88-4fe5-4aea-bc14-a68db6b20f10,522a4ed6-406f-41b8-a80c-9955589cc5e2,ByDriver,PICKUP_LOC_TOO_FAR,Pickup location was too far.
+NA,8eb13e91-3ce9-415e-ba54-d9c6679054a2,ByUser,NA,NA
